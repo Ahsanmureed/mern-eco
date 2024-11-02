@@ -1,0 +1,23 @@
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-03T11:58:41.832Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:00:09.974Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:00:09.975Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:01:10.209Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-03T12:01:10.248Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:01:21.007Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:01:21.008Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:02:39.533Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:02:39.534Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-10-03T12:23:07.053Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:23:50.062Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:23:50.063Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:29:46.890Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:29:46.892Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:30:18.338Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:30:18.339Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:30:42.289Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:30:42.304Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:31:12.133Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:31:12.134Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-03T12:46:16.667Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-03T12:46:16.765Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-10-03T12:46:40.898Z"}

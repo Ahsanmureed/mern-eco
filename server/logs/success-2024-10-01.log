@@ -1,0 +1,14 @@
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-01T08:57:02.895Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-01T10:17:45.033Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T10:19:15.480Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T10:25:49.139Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T10:40:59.385Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T10:45:17.547Z"}
+{level:"info", message:"User registered successfully", timestamp:"2024-10-01T14:42:59.232Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-01T14:43:12.542Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T14:43:31.664Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T14:45:05.430Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T15:09:51.710Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-01T15:50:14.570Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-01T15:50:20.429Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-01T15:50:32.551Z"}

@@ -1,0 +1,106 @@
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T09:42:48.996Z"}
+{level:"error", message:"Error during password reset process", timestamp:"2024-10-30T10:15:50.148Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T10:18:37.077Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T10:25:01.096Z"}
+{level:"error", message:"Error during password reset", timestamp:"2024-10-30T10:38:31.556Z"}
+{level:"error", message:"Error during password reset", timestamp:"2024-10-30T10:38:37.971Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T12:22:12.270Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T12:22:12.303Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-10-30T12:26:18.278Z"}
+{level:"warn", message:"Password is required", timestamp:"2024-10-30T12:35:36.781Z"}
+{level:"warn", message:"Token has expired", timestamp:"2024-10-30T12:37:31.376Z"}
+{level:"warn", message:"Token has expired", timestamp:"2024-10-30T12:38:08.580Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T12:39:05.643Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T12:39:33.245Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:40:40.197Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:40:47.532Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:41:21.507Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:41:25.312Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-10-30T12:41:50.574Z"}
+{level:"warn", message:"Password validation failed: Password must contain at least one special character", timestamp:"2024-10-30T12:42:05.021Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:43:04.586Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:44:09.997Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:44:40.705Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T12:48:14.107Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:48:21.908Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T12:50:10.214Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T12:50:21.587Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T12:51:16.763Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T12:51:21.798Z"}
+{level:"warn", message:"Incorrect password during login attempt", timestamp:"2024-10-30T12:51:36.393Z"}
+{level:"warn", message:"Incorrect password during login attempt", timestamp:"2024-10-30T12:53:43.036Z"}
+{level:"warn", message:"Password validation errors", timestamp:"2024-10-30T12:54:00.561Z"}
+{level:"warn", message:"Password validation errors", timestamp:"2024-10-30T12:54:02.102Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:01:09.198Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:01:48.839Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:02:11.657Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:03:51.922Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:04:24.858Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:04:31.593Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:04:32.162Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:04:32.345Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:04:32.510Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:04:32.713Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:04:37.680Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T13:05:22.621Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T13:05:29.650Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T13:05:57.738Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:06:40.413Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T13:06:45.134Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:09:49.712Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T13:15:45.926Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:15:54.056Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T13:16:02.321Z"}
+{level:"warn", message:"Password is required", timestamp:"2024-10-30T13:16:37.118Z"}
+{level:"warn", message:"Password is required", timestamp:"2024-10-30T13:18:20.920Z"}
+{level:"warn", message:"Token has expired", timestamp:"2024-10-30T13:18:31.932Z"}
+{level:"warn", message:"Token has expired", timestamp:"2024-10-30T13:18:55.124Z"}
+{level:"warn", message:"Password is required", timestamp:"2024-10-30T13:21:17.708Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:23:56.477Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:24:01.554Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:25:21.475Z"}
+{level:"warn", message:"Password validation failed: Password must contain at least one special character", timestamp:"2024-10-30T13:31:00.685Z"}
+{level:"warn", message:"Username already registered", timestamp:"2024-10-30T13:31:34.048Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:36:54.711Z"}
+{level:"warn", message:"Token has expired", timestamp:"2024-10-30T13:37:51.091Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:38:39.731Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-10-30T13:38:46.918Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:38:50.081Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-10-30T13:40:39.312Z"}
+{level:"warn", message:"Incorrect password during login attempt", timestamp:"2024-10-30T13:49:26.709Z"}
+{level:"warn", message:"User login attempt with missing password", timestamp:"2024-10-30T13:49:34.249Z"}
+{level:"warn", message:"User login attempt with missing email", timestamp:"2024-10-30T13:49:48.151Z"}
+{level:"warn", message:"User registration attempt with missing email", timestamp:"2024-10-30T13:51:45.015Z"}
+{level:"warn", message:"User registration attempt with missing email", timestamp:"2024-10-30T13:52:30.059Z"}
+{level:"warn", message:"Incorrect password during login attempt", timestamp:"2024-10-30T13:52:35.866Z"}
+{level:"warn", message:"User registration attempt with missing email", timestamp:"2024-10-30T13:53:29.360Z"}
+{level:"warn", message:"Incorrect password during login attempt", timestamp:"2024-10-30T13:53:47.450Z"}
+{level:"warn", message:"User registration attempt with missing email", timestamp:"2024-10-30T13:53:51.075Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:54:03.246Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:54:08.685Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:54:14.628Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T13:54:20.706Z"}
+{level:"warn", message:"Incorrect password during login attempt", timestamp:"2024-10-30T14:29:18.529Z"}
+{level:"warn", message:"User registration attempt with missing email", timestamp:"2024-10-30T14:29:32.730Z"}
+{level:"warn", message:"Email already registered", timestamp:"2024-10-30T14:29:43.622Z"}
+{level:"warn", message:"Password validation errors", timestamp:"2024-10-30T14:29:49.470Z"}
+{level:"warn", message:"Password is required", timestamp:"2024-10-30T14:33:30.917Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-10-30T14:33:50.087Z"}
+{level:"warn", message:"Password reset attempt without email", timestamp:"2024-10-30T14:41:26.902Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T16:51:21.763Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-30T16:51:41.296Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-30T16:51:49.715Z"}
+{level:"warn", message:"Password reset attempt for non-existent email", timestamp:"2024-10-30T16:53:06.173Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T16:54:58.348Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T16:55:20.596Z"}
+{level:"error", message:"An error occurred during password reset", timestamp:"2024-10-30T16:56:16.167Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:01:08.856Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:02:35.185Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:02:51.877Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:06:03.777Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:06:03.784Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:06:05.628Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:06:05.701Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-30T17:11:38.045Z"}
+{level:"error", message:"Error while creating review", timestamp:"2024-10-30T17:17:02.304Z"}
+{level:"error", message:"Error while creating review", timestamp:"2024-10-30T17:17:52.731Z"}

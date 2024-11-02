@@ -1,0 +1,6 @@
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-14T13:20:24.215Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-14T13:20:36.111Z"}
+{level:"error", message:"Error during product creation", timestamp:"2024-10-14T13:21:18.096Z"}
+{level:"error", message:"Error during product creation", timestamp:"2024-10-14T13:21:32.277Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-14T13:23:15.596Z"}
+{level:"error", message:"Error during product creation", timestamp:"2024-10-14T13:23:24.548Z"}

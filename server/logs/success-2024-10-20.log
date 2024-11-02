@@ -1,0 +1,766 @@
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:28:48.827Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:28:49.037Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:29:13.511Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:31:04.430Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:31:04.471Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:31:13.289Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:31:13.316Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:31:19.884Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:31:20.026Z"}
+{level:"error", message:"Error updating product", timestamp:"2024-10-20T07:31:34.683Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:32:22.377Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:32:22.416Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:32:26.500Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:32:26.550Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:33:30.996Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:33:42.038Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:33:42.316Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:33:58.107Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:34:01.218Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:34:01.448Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:34:46.381Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:34:46.413Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:40:55.772Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:40:55.854Z"}
+{level:"error", message:"Error updating product", timestamp:"2024-10-20T07:41:06.440Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:41:23.018Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:41:58.394Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:41:58.685Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:42:05.137Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:42:08.659Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:42:08.857Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:42:10.630Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T07:42:10.683Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:42:10.711Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T07:42:10.860Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:43:32.151Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:43:32.307Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:43:41.421Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:43:41.441Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:45:45.737Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:45:45.767Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:45:49.728Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:05.898Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:05.978Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:46:08.864Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:22.147Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:22.176Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:28.306Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:28.383Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:46:33.690Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:46:40.287Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:56.812Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:46:56.856Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:46:59.995Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:47:33.436Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:47:33.768Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:47:42.879Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:47:42.952Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:47:45.824Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:47:53.490Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:47:53.523Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:47:57.114Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:48:05.112Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:48:05.148Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:48:13.630Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:48:13.767Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:48:17.699Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:49:22.261Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T07:49:22.319Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T07:49:26.156Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:02:11.296Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:02:11.318Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:02:22.645Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:02:22.689Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:02:35.705Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:02:35.723Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:02:39.305Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:02:49.622Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:03:01.662Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:03:01.696Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:03:06.282Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:04:29.340Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:05:12.902Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:05:12.969Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:05:22.529Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:05:22.549Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:05:27.667Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:05:43.818Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:05:43.884Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:05:57.206Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-20T08:05:58.678Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:06:11.846Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:06:11.861Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:06:33.996Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:06:34.019Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:06:39.291Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:06:41.875Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:06:41.995Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:07:12.555Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:07:12.613Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:07:19.594Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:07:19.609Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:09:43.121Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:10:12.864Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:10:18.113Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:10:18.288Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:10:23.925Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:10:33.354Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:10:57.523Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:10:57.617Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:11:24.216Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:11:24.339Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:11:31.082Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:11:48.618Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:14:13.122Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:14:13.178Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:14:30.010Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:14:32.865Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:14:32.920Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:14:50.787Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:14:57.806Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:14:57.878Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:15:22.293Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:15:38.297Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:17:14.145Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:17:41.688Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:17:41.737Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:19:36.434Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:19:36.487Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-20T08:19:45.453Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:20:01.701Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:20:11.451Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:20:11.563Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:21:12.338Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:21:12.364Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T08:21:24.591Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:23:40.115Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:23:40.137Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:24:43.420Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:24:43.623Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:41:59.787Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:41:59.890Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T08:42:44.822Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-20T08:42:46.680Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:14:15.721Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:14:15.897Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:22:13.332Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:22:13.395Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:39.358Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:39.385Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:52.563Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:52.641Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:57.845Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:57.949Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:25:13.588Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:25:13.610Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-20T09:25:23.631Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:25:42.945Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:25:42.982Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:25:44.794Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T09:25:44.805Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:25:44.814Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T09:25:44.875Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:26:00.171Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:26:12.526Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:26:12.542Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:26:22.627Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:28:44.881Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:28:45.062Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:28:55.912Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:30:06.918Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:30:07.089Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:30:07.940Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:30:07.979Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:30:27.035Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:30:30.974Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:30:31.003Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:33:01.455Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:33:07.104Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:33:07.129Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:34:52.853Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:34:52.990Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:34:53.933Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T09:34:53.948Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:34:54.062Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T09:34:54.108Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:35:07.649Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:36:54.333Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:37:12.209Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:38:27.223Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:39:46.049Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:39:46.112Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:43:21.321Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:45:02.192Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:45:02.252Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T09:50:27.433Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-20T09:50:28.895Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T09:50:51.412Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:03:33.511Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:03:33.568Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:03:49.884Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:03:49.930Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:03:56.758Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:03:56.797Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:05:27.157Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:05:27.191Z"}
+{level:"info", message:"Product deleted successfully", timestamp:"2024-10-20T10:06:56.470Z"}
+{level:"info", message:"Product deleted successfully", timestamp:"2024-10-20T10:07:00.993Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:07.177Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:07.196Z"}
+{level:"info", message:"Product deleted successfully", timestamp:"2024-10-20T10:07:10.988Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:12.321Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:12.387Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:36.032Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:07:36.043Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:36.051Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:07:36.063Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:39.767Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:39.789Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:43.323Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:07:43.332Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:07:43.337Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:07:43.349Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:08:17.669Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:08:17.758Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:08:18.468Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:08:18.475Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:08:18.483Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:08:18.491Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-20T10:10:39.648Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:11:11.814Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-20T10:11:11.819Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:11:37.368Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-20T10:11:37.373Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:11:48.498Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-20T10:11:48.502Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:12:25.965Z"}
+{level:"info", message:"Order created", timestamp:"2024-10-20T10:12:26.018Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:12:30.278Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:12:30.354Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:12:31.864Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:12:31.873Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:12:31.886Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:12:31.901Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:13:37.441Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:13:37.449Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:13:37.490Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:13:37.505Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:20:51.105Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:20:51.163Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:20:51.228Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:20:51.244Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:20:51.255Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:20:51.269Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:21:04.552Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:21:04.562Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:21:04.570Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:21:04.582Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:21:23.281Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:21:23.292Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:21:30.332Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:21:30.363Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:21:31.947Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:21:31.957Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:21:31.982Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:21:32.014Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:22:23.329Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:22:23.345Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:23:09.291Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:23:09.300Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:23:48.274Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:23:48.282Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:24:04.287Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:24:04.313Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:24:07.267Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:24:07.276Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:24:25.863Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:24:25.872Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:24:37.272Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:24:37.292Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:24:44.268Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:24:44.276Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:26:09.274Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:26:14.926Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:26:15.027Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-20T10:26:17.288Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:26:18.771Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:26:18.787Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:26:18.843Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:26:18.904Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:26:26.792Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:26:34.829Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:26:34.903Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:28:58.887Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:29:19.543Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:29:19.550Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:31:06.496Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:31:06.526Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:31:06.538Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:31:06.576Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:31:11.464Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:31:19.262Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:31:19.303Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:31:24.098Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:31:28.058Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:30.977Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:31.135Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:32.325Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:32.369Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:34.802Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:32:34.816Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:34.870Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:32:34.881Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:32:37.768Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:32:41.858Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:44.876Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:45.009Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:45.940Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:32:45.949Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:45.992Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:32:46.043Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:32:49.362Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:32:53.244Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:54.890Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:54.940Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:56.132Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:32:56.141Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:32:56.155Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:32:56.199Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:33:03.733Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:33:07.895Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:33:08.097Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:33:09.003Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:33:09.010Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:33:09.019Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:33:09.062Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:34:03.455Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:34:03.461Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:34:20.290Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:34:20.306Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:34:38.314Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:34:38.320Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:34:46.276Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:34:46.284Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:34:56.040Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:34:59.154Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:34:59.169Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:00.561Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:35:00.568Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:00.622Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:35:00.638Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:35:04.929Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:07.219Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:07.256Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:08.859Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:35:08.866Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:08.917Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:35:08.937Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:35:35.644Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:38.163Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:38.266Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:40.077Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:35:40.084Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:35:40.108Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:35:40.152Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:13.266Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:36:13.273Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:22.278Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:36:22.288Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:25.993Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:26.101Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:26.811Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:36:26.822Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:26.879Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:36:26.908Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:36:34.312Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:34.385Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:36:34.393Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:36:36.180Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:36.205Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:36:36.212Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T10:36:38.463Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:36:38.495Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:36:38.503Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:37:07.267Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:37:07.273Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:37:12.287Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:37:12.294Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:37:25.271Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:37:25.276Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:37:28.550Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:37:28.556Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:37:41.268Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:37:41.296Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:37:49.257Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:37:49.263Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:38:00.268Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:38:00.280Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:38:15.273Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:38:15.282Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:38:23.448Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:38:23.459Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:38:43.266Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:38:43.272Z"}
+{level:"warn", message:"Insufficient stock for product", timestamp:"2024-10-20T10:38:53.343Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:38:53.384Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:38:53.392Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:40:26.548Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:40:26.553Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:26.694Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:26.765Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:36.253Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:40.063Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:40.100Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:42.732Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:42.789Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:50.257Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:54.713Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:54.789Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:59.374Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:41:59.387Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:42:03.282Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:42:36.258Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:42:41.010Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:42:41.068Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:04.353Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:04.403Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:07.073Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:07.141Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:26.255Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:26.267Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:44.239Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:43:44.255Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:48:00.543Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:48:00.561Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:50:49.285Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:50:49.298Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:50:53.832Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:50:53.843Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:50:59.270Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:51:02.768Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:51:02.778Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:51:04.650Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:51:04.659Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:51:04.683Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:51:04.705Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:51:06.510Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:51:06.577Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:52:54.270Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:52:58.043Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:52:58.071Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:53:38.301Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:53:42.931Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:53:42.957Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:05.280Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:14.586Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:54:14.593Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:14.615Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:54:14.628Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:15.751Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:15.786Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:41.255Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:43.568Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:43.595Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:48.043Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:48.054Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:49.642Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:49.690Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:55.272Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:59.623Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:54:59.681Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:01.438Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:01.446Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:01.461Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:01.480Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:02.571Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:02.581Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:02.587Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:02.601Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:04.223Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:04.232Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:04.239Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:04.258Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:06.924Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:06.932Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:06.938Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:55:06.951Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:30.282Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:33.288Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:55:33.367Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:57:30.324Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:57:30.356Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:57:34.338Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:57:34.361Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:57:44.518Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:57:44.538Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:00.188Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:00.271Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:02.719Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:58:02.728Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:02.747Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:58:02.820Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:07.283Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:07.300Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:10.329Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:58:10.364Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:59:35.279Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:59:35.295Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:59:50.609Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:59:50.615Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:59:50.676Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T10:59:50.713Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:59:52.801Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T10:59:52.861Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:00:07.290Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:00:10.960Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:00:11.001Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:00:15.288Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:22.303Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:25.430Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:25.437Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:25.496Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:25.507Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:27.465Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:27.599Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:30.351Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:30.357Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:30.372Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:30.419Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:33.203Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:33.212Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:33.226Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:33.257Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:49.558Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:49.633Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:51.647Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:51.654Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:51.671Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:51.703Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:53.480Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:53.497Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:53.503Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:53.523Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:56.014Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:56.020Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:01:56.040Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:01:56.064Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:02.101Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:02:02.110Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:02.156Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:02:02.165Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:22.268Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:02:22.276Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:22.280Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:22.297Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:02:22.306Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:22.320Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:27.810Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:27.832Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:34.145Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:02:34.154Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:34.172Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:02:34.203Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:53.923Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:02:53.932Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:03:51.273Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:03:51.305Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:04:05.884Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:04:05.889Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:04:05.940Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:04:05.953Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:04:07.515Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:04:07.547Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:04:10.152Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:04:10.170Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:05:08.711Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:05:08.734Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:05:38.278Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:06:17.288Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:06:17.313Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:06:23.368Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:06:40.257Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:07:05.256Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:07:10.515Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:07:10.526Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:07:16.434Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:07:16.444Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:08:09.306Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:08:35.261Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:08:40.249Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:08:42.652Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:08:42.712Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:08:44.719Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:08:44.841Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:09:04.261Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:09:07.529Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:09:07.537Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:09:07.557Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:09:07.608Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:09:09.240Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:09:09.279Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:10:07.259Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:10:10.638Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:10:10.677Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:10:11.554Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:10:11.565Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:10:11.576Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:10:11.590Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:10:13.749Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:10:13.805Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:26.263Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:29.631Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:29.669Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:31.255Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:11:31.261Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:31.281Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:11:31.315Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:32.582Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:32.603Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:34.985Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:35.024Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:37.370Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:11:37.376Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:37.416Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:11:37.427Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:38.459Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:11:38.513Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:39.946Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:39.957Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:41.075Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:13:41.081Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:41.100Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:13:41.136Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:43.182Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:13:43.189Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:43.217Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:13:43.227Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:45.552Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:13:45.559Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:13:45.585Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:13:45.595Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:14:39.276Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:14:39.289Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:14:48.177Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:14:48.207Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:14:57.104Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:14:57.112Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:14.286Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:14.292Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:14.310Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:14.338Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:16.054Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:16.103Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:17.548Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:17.554Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:17.577Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:17.626Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:18.666Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:18.672Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:18.695Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:18.708Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:21.445Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:21.453Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:21.482Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:15:21.491Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:25.340Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:25.347Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:26.249Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:15:26.259Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:01.464Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:01.469Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:01.475Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:01.490Z"}
+{level:"info", message:"Order updated successfully", timestamp:"2024-10-20T11:16:08.457Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:08.477Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:08.495Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:21.035Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:21.043Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:21.049Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:21.056Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:22.427Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:22.432Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:22.453Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:22.460Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:16:52.268Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:16:52.274Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:17:58.271Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:17:58.277Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:07.270Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:07.277Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:21.263Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:21.269Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:32.315Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:32.414Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:33.599Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:33.606Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:33.626Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:33.651Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:35.818Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:35.823Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:35.860Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:35.873Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:42.021Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:42.026Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:42.057Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:42.070Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:43.922Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:43.929Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:43.955Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:43.961Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:46.292Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:46.300Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:18:46.304Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:18:46.333Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:24:24.425Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:24:50.971Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:24:50.999Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:25:00.083Z"}
+{level:"error", message:"Error updating product", timestamp:"2024-10-20T11:30:03.493Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:31:19.748Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:25.076Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:25.138Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:27.968Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:27.996Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-20T11:31:35.199Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:31:36.403Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:31:36.419Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:31:36.430Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:31:36.485Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:31:43.796Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:31:47.748Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:31:47.822Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:33:14.183Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:33:14.237Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:33:20.394Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:33:25.314Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:33:25.389Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:33:53.107Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:33:53.210Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:37:17.837Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:37:17.912Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:37:32.262Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:39:32.896Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:39:32.973Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:39:42.684Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:39:49.860Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:39:49.896Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:40:11.661Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:40:25.860Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:40:25.975Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:40:27.568Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:40:27.584Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:40:27.639Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-20T11:40:27.685Z"}
+{level:"info", message:"Product deleted successfully", timestamp:"2024-10-20T11:40:29.181Z"}
+{level:"info", message:"Product deleted successfully", timestamp:"2024-10-20T11:40:32.592Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:47:27.136Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:47:27.186Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:49:12.972Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:49:19.638Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:49:23.827Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:49:23.866Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:49:33.240Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:51:37.369Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-20T11:51:37.466Z"}
+{level:"info", message:"Product updated successfully", timestamp:"2024-10-20T11:51:44.879Z"}

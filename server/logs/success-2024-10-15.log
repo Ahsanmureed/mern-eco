@@ -1,0 +1,940 @@
+{level:"error", message:"Error during user login", timestamp:"2024-10-15T03:40:30.234Z"}
+{level:"warn", message:"Registration attempt without username", timestamp:"2024-10-15T10:58:28.439Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-10-15T10:59:18.647Z"}
+{level:"info", message:"User registered successfully", timestamp:"2024-10-15T10:59:25.322Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-15T10:59:59.509Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:01:31.505Z"}
+{level:"info", message:"Shop created successfully", timestamp:"2024-10-15T11:01:31.516Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:02:31.665Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:02:31.683Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-10-15T11:06:00.335Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:06:09.499Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:06:16.562Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:06:41.832Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:06:42.564Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:06:43.907Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:08:05.141Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:08:46.326Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:08:46.500Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:08:54.973Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:08:54.990Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:08:56.442Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:08:56.458Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:08:57.966Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:08:57.992Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:08:59.385Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:08:59.410Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:01.258Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:01.281Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:02.592Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:02.612Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:03.678Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:03.697Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:04.777Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:04.796Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:05.658Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:05.677Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:06.743Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:06.760Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:07.762Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:07.776Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:17.097Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:17.112Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:18.174Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:18.188Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:19.011Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:19.021Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:19.937Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:19.947Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:20.980Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:20.998Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:21.923Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:21.942Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:22.773Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:22.793Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:23.766Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:23.789Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:24.830Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:24.854Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:25.910Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:25.926Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T11:09:27.279Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T11:09:27.293Z"}
+{level:"error", message:"Error during product pagination", timestamp:"2024-10-15T11:14:56.822Z"}
+{level:"error", message:"Error during product pagination", timestamp:"2024-10-15T11:14:56.959Z"}
+{level:"error", message:"Error during product pagination", timestamp:"2024-10-15T11:15:30.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:15:59.451Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:16:45.440Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:16:45.496Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:17:31.451Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:20:01.716Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:20:07.808Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:20:26.462Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:20:30.873Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:20:39.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:20:41.789Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:20:43.350Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:21:01.504Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:21:01.586Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:22:08.739Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:22:08.864Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:25:09.454Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:25:09.501Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:07.446Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:07.482Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:21.604Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:24.996Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:25.079Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:35.064Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:35.183Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:38.610Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:26:38.773Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:27:40.704Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:27:42.694Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:27:42.747Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:27:56.430Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:28:02.107Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:28:02.154Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:28:21.106Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:28:22.803Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:28:22.854Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:28:43.429Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:29:03.466Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:29:20.434Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:29:23.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:29:33.428Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:29:41.432Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:29:45.362Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:29:45.430Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:30:09.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:30:13.651Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:30:13.708Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:30:44.707Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:31:28.441Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:31:39.456Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:31:44.683Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:31:44.726Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:44.493Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:48.559Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:48.620Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:49.428Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:49.530Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:49.896Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:49.950Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:50.444Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:32:50.478Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:01.445Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:04.935Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:04.967Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:05.153Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:05.199Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:05.432Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:05.595Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:05.673Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:05.876Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:06.026Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:06.068Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:08.375Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:33:08.429Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:34:50.441Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:34:53.842Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:34:53.913Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:03.446Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:44.658Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:49.862Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:49.913Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:50.472Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:50.596Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:50.723Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:50.742Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:50.985Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:51.044Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:51.217Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:51.260Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:51.490Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:51.587Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:51.711Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:35:51.743Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:05.295Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:06.359Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:06.795Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:06.970Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:07.170Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:07.365Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:07.510Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:10.801Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:21.452Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:27.753Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:27.810Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:34.822Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:48.449Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:50.781Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:51.264Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:51.423Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:51.580Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:51.733Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:51.870Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:52.022Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:53.270Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:53.323Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:36:58.587Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:00.640Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:00.694Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:07.926Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:31.438Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:36.326Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:36.850Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:37.110Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:37.299Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:37.468Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:47.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:51.323Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:51.896Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:52.074Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:52.229Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:37:59.708Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:02.067Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:02.508Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:02.703Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:02.848Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:03.040Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:03.175Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:03.326Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:03.563Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:30.439Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:33.189Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:33.605Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:33.760Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:41.592Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:42.974Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:43.022Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:48.420Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:49.032Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:49.241Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:49.405Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:49.559Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:49.712Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:49.852Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:49.994Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:55.383Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:56.658Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:57.014Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:57.178Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:57.312Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:58.793Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:38:58.889Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:39:07.380Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:39:07.444Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:39:19.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:39:24.991Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:39:25.013Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:39:37.438Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:00.222Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:00.284Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:01.176Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:01.243Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:01.463Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:01.486Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:10.155Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:10.189Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:33.462Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:50.383Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:53.149Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:40:53.213Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:19.920Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:36.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:38.196Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:38.229Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:44.172Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:46.924Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:46.946Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:41:51.457Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:42:09.437Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:42:15.440Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:42:27.437Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:42:52.437Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:43:03.441Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:43:15.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:43:56.425Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:44:04.649Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:44:19.166Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:44:22.644Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:45:11.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:45:25.440Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:45:39.440Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:45:49.535Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:45:49.604Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:47:00.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:47:03.938Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:47:04.123Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:47:16.443Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:47:33.442Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:47:38.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:47:56.502Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:48:08.392Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:48:17.500Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:48:40.422Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:49:11.428Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:49:42.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:49:52.429Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:50:03.716Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:50:03.777Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:51:33.154Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:51:38.434Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:51:57.437Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:52:45.457Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:52:49.438Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:52:52.410Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:52:52.458Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:52:59.434Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:53:04.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:53:13.430Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:54:17.750Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:54:18.969Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:54:48.452Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:54:50.869Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:54:50.940Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:55:09.781Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:55:23.432Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:55:46.498Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:56:40.176Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:57:36.464Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:57:39.685Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:57:39.733Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:02.368Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:02.415Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:02.721Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:02.775Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:03.040Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:03.197Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:03.417Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:03.460Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:03.693Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:03.739Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:04.095Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:04.202Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:04.265Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:04.462Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:04.501Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:14.667Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:14.687Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:19.575Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:58:39.439Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T11:59:26.433Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:02:39.785Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:02:39.804Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:03:14.426Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:03:14.444Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:04:04.513Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:07:05.442Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:07:17.446Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:07:48.404Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:07:48.427Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:12:48.654Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:12:48.680Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:14:30.677Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:14:30.699Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:14:35.923Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:14:35.989Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:15:07.440Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:16:01.447Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:16:09.092Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:16:22.049Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:16:22.137Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:16:35.360Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:26:52.118Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:26:52.134Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:27:57.219Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:27:57.241Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:28:07.274Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:28:07.316Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:28:25.543Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:28:25.575Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:29:21.441Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:29:21.459Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:29:25.477Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:30:34.201Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:30:34.246Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:31:04.660Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:31:04.692Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:31:28.440Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:31:28.458Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:31:44.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:32:05.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:33:35.196Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:33:35.228Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:36:06.439Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:36:06.455Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:36:24.010Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:36:24.108Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:36:32.131Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:38:28.650Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:38:28.713Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:38:34.330Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:38:38.144Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:38:38.214Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:38:44.467Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:41:55.792Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:41:55.881Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:32.743Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:32.827Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:41.187Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:41.264Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:48.750Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:48.831Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:59.437Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:50:59.448Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:02.028Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:02.075Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:08.855Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:08.938Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:13.799Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:13.895Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:52.629Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:51:52.679Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:19.438Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:22.073Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:22.137Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:28.255Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:28.309Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:48.510Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:56.928Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:52:57.013Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:53:10.444Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:53:21.442Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:53:50.570Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:53:50.585Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:54:10.308Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:54:54.552Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:54:54.674Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:55:16.212Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T12:55:16.251Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:02:44.436Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:02:44.458Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:02:46.443Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:02:46.459Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:06.960Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:07.001Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:09.320Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:09.356Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:33.467Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:37.963Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:38.006Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:56.441Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:03:59.909Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:04:00.004Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:05:08.152Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:05:08.230Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:05:12.651Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:05:16.881Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:05:23.290Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:05:29.913Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:05:34.224Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:39.107Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:40.226Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:41.108Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:42.304Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-15T13:05:49.003Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T13:06:06.383Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T13:06:06.430Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T13:06:10.308Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T13:06:10.334Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T13:06:11.817Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T13:06:11.874Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T13:06:13.491Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T13:06:13.520Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T13:06:16.468Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T13:06:16.489Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-15T13:06:20.863Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-15T13:06:20.885Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:08:46.747Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:08:51.476Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:08:53.605Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:08:59.863Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:09:02.075Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:09:05.265Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:09:14.241Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:10:18.432Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:10:18.446Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:10:27.513Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:10:32.299Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:10:35.710Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:18:18.767Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:18:36.229Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:18:36.296Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:18:48.881Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:23.081Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:23.105Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:27.037Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:29.577Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:29.594Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:30.521Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:30.551Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:31.003Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:31.030Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:31.304Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:31.324Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:33.705Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:34.903Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:34.934Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:40.531Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:21:40.572Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:22:26.842Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:22:26.867Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:22:32.396Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:22:35.526Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:22:39.015Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:22:41.484Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:22:44.947Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:23:51.680Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:25:07.208Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:25:07.248Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:25:10.292Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:26:50.893Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:26:53.506Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:27:01.135Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:27:04.619Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:27:13.225Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T13:27:16.536Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:24:56.183Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:24:56.302Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:25:18.042Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:25:20.500Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:25:20.516Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:26:26.838Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:26:28.592Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:26:30.756Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:34:54.163Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:34:54.328Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:35:17.725Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:35:29.198Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:35:44.473Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:35:49.238Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:38:27.143Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:39:40.413Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:39:40.468Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:41:01.143Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:41:01.156Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:41:05.978Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:41:06.057Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:41:13.598Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:41:13.610Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:43:38.392Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:43:38.445Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:43:43.722Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:43:43.728Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:44:02.234Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:44:02.240Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:44:27.837Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:44:27.842Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:46:05.652Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:46:05.661Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:46:36.424Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:46:36.432Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:19.237Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:19.241Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:37.126Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:42.075Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:42.117Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:46.951Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:46.971Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:51.291Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:51.296Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:54.793Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:54.802Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:58.278Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:49:58.285Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:50:01.094Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:50:01.100Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:51:26.978Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:51:26.983Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:51:38.722Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:51:45.192Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:51:45.195Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:51:55.420Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:51:55.423Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:52:34.351Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:52:34.354Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:52:40.854Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:52:40.859Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:52:50.408Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:52:50.415Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:52:59.975Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:03.174Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:03.184Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:05.977Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:05.991Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:08.914Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:08.919Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:31.688Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:35.016Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:53:35.019Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:55:25.868Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:55:25.872Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:56:55.481Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:56:55.486Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:57:00.465Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T14:57:00.468Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:00:01.186Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:00:01.212Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:00:05.082Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:00:05.090Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:00:36.138Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:00:36.151Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:01:32.253Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:01:32.257Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:31:12.338Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:31:12.356Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:31:14.670Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:31:14.678Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:34:58.840Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:34:58.851Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:35:02.152Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:35:02.158Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:36:19.653Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:41:13.006Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:41:13.010Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:41:17.499Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:41:17.503Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:43:10.540Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:44:23.940Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:44:23.974Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:44:28.922Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:45:33.164Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:46:15.443Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:46:33.823Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:46:39.416Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:46:39.421Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:46:44.882Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:46:44.889Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:48:04.153Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:48:59.065Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:00.456Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:02.010Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:03.104Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:08.065Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:08.905Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:17.882Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:18.860Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:20.195Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:21.261Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:56.669Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:56.699Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:59.490Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:49:59.505Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:50:26.476Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:50:40.203Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:50:40.216Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:50:47.438Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:50:47.446Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:56:31.163Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:56:31.222Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:03.871Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:09.145Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:09.159Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:10.641Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:10.646Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:12.249Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:12.255Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:14.754Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:14.759Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:16.958Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:17.014Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:19.975Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:24.762Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:27.145Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:28.783Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:31.017Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:58:55.382Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:59:13.572Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T15:59:38.159Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:00:28.144Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:00:55.403Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:02:47.260Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:11.129Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:11.151Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:14.829Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:14.842Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:23.906Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:23.946Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:24.645Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:24.657Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:25.070Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:25.081Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:26.000Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:06:45.381Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:17:07.731Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:18:12.183Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:18:21.144Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:19:40.609Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:19:40.659Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:20:06.575Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:20:25.625Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:20:47.550Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:22:14.348Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:22:46.777Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:22:46.862Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:28:08.822Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:29:07.818Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:29:13.882Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:29:14.218Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:30:35.597Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:30:39.906Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:30:39.923Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:31:08.580Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:31:08.740Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:32:55.562Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:32:59.730Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:32:59.936Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:33:21.296Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:33:32.799Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:33:36.031Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:33:36.563Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:36:12.677Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:36:14.863Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:36:15.457Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:37:20.663Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:37:25.111Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:37:31.558Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:37:54.783Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:37:54.792Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:37:57.269Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:37:57.296Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:38:01.750Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:38:01.754Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:38:12.496Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:38:45.584Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:38:53.480Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:39:09.666Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:39:17.314Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:39:20.536Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:40:29.145Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:41:13.600Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:41:54.344Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:41:57.101Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:41:57.708Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:42:07.349Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:43:02.408Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:43:02.434Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:43:08.521Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:44:56.561Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:03.560Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:07.549Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:08.052Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:17.569Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:25.545Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:30.935Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:41.558Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:46:59.542Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:47:02.845Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:47:03.074Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:47:05.734Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:49:08.615Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:49:12.364Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:49:12.474Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:49:38.561Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:49:42.008Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:49:42.065Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:49:55.554Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:50:11.555Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:50:30.567Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:50:44.530Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:52:23.874Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:52:23.925Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:53:30.553Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:53:46.565Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:53:50.427Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:53:50.582Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:53:59.451Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:10.573Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:14.129Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:14.336Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:38.551Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:47.555Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:50.649Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:51.075Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:54:55.557Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:55:10.555Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:55:19.563Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:55:31.561Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:55:39.948Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:55:46.557Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:55:53.130Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:56:03.562Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:56:22.569Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:57:05.836Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:57:06.542Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-15T16:57:08.749Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T00:53:06.237Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T00:53:06.337Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T00:53:36.727Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T00:54:11.725Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T00:55:31.391Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T00:55:36.931Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-16T01:03:17.083Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-16T01:03:33.941Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-16T01:03:34.019Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:06:23.369Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:06:23.387Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:06:32.337Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:06:32.373Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:06:43.504Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:06:43.552Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:31.114Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:31.150Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:38.692Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:38.714Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:39.026Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:39.105Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:39.247Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:39.410Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:39.592Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:39.711Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:39.733Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:40.428Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:07:40.450Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:10:43.677Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-16T01:10:59.159Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-16T01:10:59.177Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:11:03.315Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:11:03.349Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:11:29.158Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:11:29.200Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:12.820Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:12.835Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:14.695Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:14.739Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:34.082Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:34.102Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:35.571Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:35.609Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:45.393Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:18:45.428Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:21:15.712Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:21:15.723Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:21:26.713Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:21:48.724Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:21:48.734Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:22:00.720Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:23:23.711Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:23:27.029Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:23:27.066Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:24:29.355Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:24:29.386Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:27:11.610Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:27:11.643Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:27:59.563Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:28:16.668Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:28:16.680Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:29:55.716Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:29:55.725Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:30:13.718Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:30:23.708Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:30:30.700Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:31:41.714Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T01:32:43.718Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-16T01:35:26.635Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-16T01:35:31.444Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-16T01:35:31.514Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:35:49.402Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:35:49.423Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:36:20.516Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:36:20.554Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:36:39.434Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:36:39.469Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:37:01.849Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:37:01.888Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:37:41.477Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:37:41.525Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:38:24.908Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:38:24.956Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:38:54.219Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:38:54.291Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:39:28.210Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:39:28.260Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:39:39.336Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:39:39.368Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:14.572Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:14.599Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:15.517Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:15.536Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.102Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.160Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.331Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.393Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.618Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.660Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.807Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:16.839Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.111Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.156Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.290Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.310Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.493Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.514Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.840Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:17.866Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:18.407Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:18.437Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:18.942Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:18.978Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:19.617Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:19.638Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:25.460Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:25.485Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.106Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.127Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.487Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.516Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.747Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.757Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.957Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:26.970Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.174Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.248Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.374Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.507Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.529Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.698Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.709Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.883Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T01:41:27.897Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-16T01:44:31.849Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-16T01:44:31.924Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:05:51.099Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:05:57.835Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:05:57.870Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:06:05.093Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:06:05.116Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-16T02:09:23.044Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-16T02:09:29.995Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-16T02:09:42.812Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-16T02:09:42.899Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:10:30.752Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:10:30.816Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:10:33.870Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:10:33.924Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:12:20.625Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:12:20.738Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:12:21.780Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:12:21.805Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-16T02:50:27.578Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-16T02:50:27.673Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:52:11.643Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:52:11.748Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:52:14.012Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:52:14.068Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:54:26.798Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:54:26.821Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:54:37.717Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:54:37.730Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:59:47.491Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T02:59:47.626Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-16T03:00:19.683Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T03:03:24.541Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T03:03:24.602Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T03:03:39.709Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T03:03:39.715Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T03:04:27.714Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T03:04:38.704Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-16T03:05:07.715Z"}

@@ -1,0 +1,24 @@
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-04T12:24:42.378Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-04T12:24:50.185Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T12:25:05.671Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-04T13:06:09.448Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-04T13:06:34.448Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:06:45.052Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:08:51.840Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:12:40.811Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:13:59.538Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:15:02.119Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:18:54.829Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:19:47.181Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:22:49.656Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:25:23.688Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:26:11.016Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:26:37.883Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:27:30.042Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:28:28.047Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:31:54.091Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-04T13:31:54.158Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:32:43.481Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:33:16.882Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-04T13:33:16.918Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-04T13:34:02.958Z"}

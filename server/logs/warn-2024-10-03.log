@@ -1,0 +1,10 @@
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:00:09.975Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:01:21.008Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:02:39.534Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-10-03T12:23:07.053Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:23:50.063Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:29:46.892Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:30:18.339Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:30:42.304Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-03T12:31:12.134Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-10-03T12:46:40.898Z"}

@@ -1,0 +1,13 @@
+{level:"error", message:"Error during user login", timestamp:"2024-10-15T03:40:30.234Z"}
+{level:"warn", message:"Registration attempt without username", timestamp:"2024-10-15T10:58:28.439Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-10-15T10:59:18.647Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-10-15T11:06:00.335Z"}
+{level:"error", message:"Error during product pagination", timestamp:"2024-10-15T11:14:56.822Z"}
+{level:"error", message:"Error during product pagination", timestamp:"2024-10-15T11:14:56.959Z"}
+{level:"error", message:"Error during product pagination", timestamp:"2024-10-15T11:15:30.433Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:39.107Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:40.226Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:41.108Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-15T13:05:42.304Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-16T01:35:26.635Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-16T02:09:23.044Z"}

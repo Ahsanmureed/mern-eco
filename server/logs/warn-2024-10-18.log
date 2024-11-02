@@ -1,0 +1,213 @@
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-18T10:06:57.736Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-18T11:05:37.740Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-18T11:05:37.756Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-18T11:05:38.798Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-18T11:05:38.846Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:08:15.274Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:08:15.328Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:08:33.551Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:08:33.563Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:38:34.407Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:38:34.454Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:39:04.343Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:39:04.386Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:39:09.134Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:39:09.144Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T11:39:13.878Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:39:17.712Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T11:39:17.737Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T11:39:19.554Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-18T11:39:34.799Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:23:47.428Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:23:52.655Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:23:52.736Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:24:16.156Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T12:40:20.991Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T12:40:31.587Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T12:40:31.649Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T12:40:34.449Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T12:40:34.728Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T12:40:41.553Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T12:40:41.592Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-18T12:40:51.097Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:48:53.423Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:48:53.435Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:49:43.020Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:49:43.152Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:49:55.387Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:49:55.446Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:50:46.726Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:50:46.951Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:50:57.480Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:50:57.632Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:51:04.858Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:51:04.905Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:51:25.714Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:51:25.755Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:52:23.388Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:52:23.589Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:53:07.299Z"}
+{level:"error", message:"Error fetching user shop", timestamp:"2024-10-18T12:53:07.438Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:07:55.736Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:09:19.599Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:09:24.233Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:09:33.321Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:09:38.032Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:10:31.455Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:10:57.975Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:11:44.789Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:17:40.998Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:24:53.080Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T13:26:41.528Z"}
+{level:"error", message:"Error fetching single product", timestamp:"2024-10-18T13:48:17.605Z"}
+{level:"error", message:"Error fetching single product", timestamp:"2024-10-18T13:48:17.803Z"}
+{level:"error", message:"Error fetching single product", timestamp:"2024-10-18T13:48:18.987Z"}
+{level:"error", message:"Error fetching single product", timestamp:"2024-10-18T13:48:19.021Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:04:09.475Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:04:25.289Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:04:25.400Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:05:38.561Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:05:38.610Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:05:59.463Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:05:59.560Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:06:04.470Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:06:04.543Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:10:05.444Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:10:05.521Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:11:22.886Z"}
+{level:"error", message:"Error fetching user products", timestamp:"2024-10-18T14:11:22.969Z"}
+{level:"warn", message:"Shop not found for user", timestamp:"2024-10-18T14:29:40.233Z"}
+{level:"warn", message:"Shop not found for user", timestamp:"2024-10-18T14:34:50.729Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:43:33.569Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:43:39.291Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:44:46.156Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:44:46.711Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:44:47.126Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:44:47.419Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:44:47.871Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:44:48.678Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:08.222Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:09.189Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:09.567Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:09.750Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:09.945Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:10.138Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:10.331Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:46:10.515Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:47:51.616Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:47:52.276Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:47:52.606Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:47:52.807Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:47:52.962Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:47:53.107Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:47:53.233Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:48:55.431Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:23.982Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:24.503Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:24.856Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:25.079Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:25.272Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:25.436Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:25.582Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:25.737Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:25.882Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:26.036Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:26.192Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:32.154Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:32.568Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:32.751Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:32.920Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:49:52.217Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:08.334Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:08.758Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:08.942Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:09.101Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:09.256Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:09.401Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:09.556Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:09.701Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:09.837Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:09.981Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:10.126Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:10.272Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:10.417Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:10.573Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:10.719Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:10.872Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:11.056Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:11.221Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:11.385Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:11.521Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:11.676Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:50:11.837Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:54:07.385Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:54:38.691Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:54:50.284Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:55:04.906Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T14:59:52.875Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T15:03:39.864Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T15:03:43.429Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T15:03:43.448Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T15:04:24.748Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T15:04:49.290Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T15:05:15.738Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T15:05:36.786Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T15:08:14.968Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T15:08:23.271Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-10-18T15:08:30.355Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T15:09:36.609Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T15:09:41.140Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T15:09:46.589Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-18T15:09:56.607Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T15:10:34.850Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T15:10:38.567Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T15:10:54.202Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T15:11:12.354Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T15:11:18.602Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-18T15:17:02.737Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:17:40.003Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:18:27.792Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:19:12.295Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:19:21.880Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:19:52.398Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:19.353Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:19.833Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:19.989Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:20.157Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:20.308Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:27.277Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:44.081Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:49.169Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:49.358Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:49.534Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:49.679Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:49.865Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:22:50.030Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:23:16.963Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T15:24:48.072Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T15:26:58.670Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:35:25.719Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:36:39.790Z"}
+{level:"warn", message:"Shop creation attempt with missing name", timestamp:"2024-10-18T15:37:20.577Z"}
+{level:"warn", message:"Shop not found for user", timestamp:"2024-10-18T15:42:45.505Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T16:36:49.941Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T16:36:49.950Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T16:36:56.426Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T16:36:56.433Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T16:37:05.160Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-18T16:37:05.170Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:37:20.263Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:37:21.338Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:37:21.989Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:37:22.435Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:41:51.298Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:41:54.915Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:45:35.699Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-18T16:45:42.147Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-19T07:18:00.530Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-19T07:18:00.641Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-19T07:18:03.994Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-19T07:18:04.060Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-19T07:18:10.347Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-19T07:18:10.356Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-19T07:47:57.613Z"}

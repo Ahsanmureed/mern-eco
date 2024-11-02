@@ -1,0 +1,922 @@
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T07:16:58.352Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T07:17:05.615Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T08:10:08.595Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:20:34.517Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T09:21:17.781Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T09:21:22.184Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:21:24.266Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:21:24.292Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T09:21:29.051Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:21:29.969Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:21:29.992Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T09:21:34.891Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:21:43.272Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T09:32:03.875Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:32:06.051Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:32:06.092Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:32:50.231Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:32:50.247Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:33:27.562Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:33:27.569Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:33:27.708Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:35:28.951Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:35:28.996Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:35:29.371Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:40:32.091Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:40:32.137Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:40:32.214Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:40:56.811Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:40:56.841Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:40:56.927Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:41:35.357Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:41:52.277Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:41:52.319Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:41:57.918Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:41:57.992Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:41:58.120Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:42:15.896Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:42:15.903Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:42:15.943Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:42:27.252Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:42:27.291Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:42:30.436Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:42:30.496Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:42:30.600Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:42:47.211Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:42:47.226Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:42:50.473Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:42:50.481Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:42:50.509Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:43:04.759Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:43:04.979Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:43:09.241Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:43:09.245Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:43:09.308Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:43:26.840Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:43:26.909Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:43:26.993Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:43:28.671Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T09:43:28.677Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:43:28.722Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:45:04.452Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:46:50.554Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:51:35.223Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:51:35.260Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:52:05.226Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:52:05.244Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:52:29.255Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:52:29.278Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:52:58.216Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:52:58.233Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:53:09.215Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:53:09.290Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:53:14.216Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:53:14.231Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:53:27.217Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:53:27.238Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:53:36.205Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:53:36.222Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:53:46.283Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:53:46.346Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T09:54:10.632Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T09:54:17.636Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:54:19.610Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:54:19.632Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T09:59:30.249Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T09:59:30.287Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T09:59:30.424Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:13:58.314Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:13:58.371Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:14:58.830Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:14:58.850Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:14:58.915Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:15:23.209Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:15:37.337Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:15:37.354Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:15:37.446Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:15:51.312Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:17:52.839Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:17:52.863Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:17:52.968Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:20:38.429Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:20:38.459Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:20:38.550Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:22:09.225Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:22:09.269Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:22:09.406Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:26:00.765Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:26:00.794Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:26:00.881Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:28:34.715Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:28:34.739Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:28:34.828Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:43:09.245Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:43:09.268Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:43:09.316Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:44:52.432Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:44:52.448Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:44:53.098Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:47:08.753Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T10:47:08.792Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:47:08.898Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:55:44.777Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T10:55:44.799Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:55:44.851Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T10:55:47.457Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T10:55:59.270Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T10:56:00.616Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T10:56:00.643Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T11:00:09.222Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:00:09.337Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T11:00:09.393Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T11:00:22.049Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:00:22.078Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T11:00:22.191Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T11:08:38.307Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T11:08:38.376Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T11:08:40.435Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:08:52.748Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:08:52.779Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:09:37.739Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:09:38.031Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:16:30.235Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:16:30.373Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:30:54.351Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:31:01.354Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:31:01.477Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:33:32.529Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:33:32.773Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:41:55.768Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T11:41:55.783Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T11:41:55.897Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-10-25T11:41:59.453Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:44:01.714Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:44:01.757Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:44:50.383Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:44:50.430Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:44:59.251Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:44:59.278Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:45:05.666Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:45:05.771Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:45:21.268Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:45:21.304Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:47:23.231Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:47:23.323Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:47:58.263Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:47:58.568Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:49:15.700Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:49:15.822Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T11:49:46.689Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T11:49:46.733Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:49:51.359Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T11:49:51.365Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T11:49:51.440Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:50:09.960Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:50:10.002Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:57:35.274Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T11:57:35.299Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T12:01:23.523Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:01:23.542Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:01:23.587Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:01:27.987Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:01:28.026Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T12:01:54.807Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:01:54.812Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:01:54.860Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T12:02:41.935Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:02:42.222Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:02:42.406Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T12:02:52.086Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T12:02:58.861Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:03:00.361Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:03:00.500Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:03:10.561Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:03:10.611Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:03:24.734Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:03:24.798Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:35.105Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:06:35.136Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:06:35.214Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:50.301Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:50.371Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:52.232Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:52.544Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:52.614Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:53.592Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:06:53.629Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:07:58.359Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:07:58.393Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:16:50.846Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:16:50.878Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:16:50.971Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T12:18:01.059Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T12:18:01.170Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T12:18:03.093Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:18:08.982Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:18:08.991Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:18:09.065Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:18:11.375Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:18:11.479Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:19:50.992Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:19:51.025Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T12:22:17.481Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:22:49.803Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-25T12:22:53.028Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:22:59.120Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:22:59.134Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:22:59.238Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T12:23:04.956Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:23:08.988Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:23:09.054Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:23:49.197Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:23:49.384Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:23:55.249Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:23:55.321Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:23:55.455Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:26:00.610Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:26:00.919Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:26:05.971Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:26:05.976Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:26:06.089Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:28:28.607Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:28:28.693Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:28:34.712Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:28:34.741Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:28:34.858Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:33:23.237Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:33:28.687Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:33:28.774Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:33:49.973Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:33:50.002Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:36:56.412Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:36:56.492Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:37:11.773Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:37:11.812Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:37:12.079Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T12:37:31.010Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:37:32.166Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:37:32.229Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:37:46.020Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:37:46.137Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-10-25T12:39:14.523Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-10-25T12:39:33.496Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T12:39:52.419Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T12:40:01.213Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:40:03.267Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:40:03.334Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T12:40:11.706Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:40:15.750Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:40:15.789Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:40:42.082Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:40:42.138Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:40:47.239Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:40:47.256Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:40:47.342Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:41:02.432Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:41:02.524Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:42:24.483Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:42:24.623Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:42:29.292Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:42:29.310Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:42:29.447Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:42:52.639Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:42:52.684Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:42:53.061Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:42:53.109Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:42:53.214Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:44:18.167Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:44:18.345Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T12:44:28.880Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T12:44:42.665Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:44:45.756Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:44:45.799Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:53:11.620Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:53:11.650Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:53:11.808Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:53:13.544Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:53:13.599Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:54:09.595Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:54:09.745Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:54:09.758Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:54:15.804Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:54:15.886Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:55:24.099Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:55:24.110Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:55:24.219Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:56:06.106Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:56:06.217Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:56:06.498Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-10-25T12:56:40.380Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:57:14.946Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:57:14.983Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T12:58:50.050Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T12:58:50.104Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T12:58:50.167Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:02:38.188Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:02:38.198Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:02:38.285Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:04:31.932Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:04:40.126Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:04:40.139Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:05:16.368Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:05:16.390Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:05:16.453Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:08:51.797Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:08:51.842Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:08:52.089Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:09:43.769Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:09:43.809Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:11:37.831Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:11:37.906Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:13:07.058Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:13:07.094Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:13:07.753Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:13:07.758Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:13:07.818Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:14:34.218Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:14:34.334Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:14:34.575Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:14:34.583Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:14:34.665Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:14:38.402Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:14:38.449Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:16:48.971Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:16:49.001Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:16:49.414Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:18:56.256Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:18:56.297Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:18:56.394Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:19:00.231Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:19:00.262Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:19:21.794Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:19:21.812Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:19:21.867Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:19:26.747Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:19:26.794Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:19:45.254Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:19:45.305Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:19:45.400Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:21:07.597Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:21:07.661Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:21:11.934Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:21:11.950Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:21:12.271Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:21:14.040Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:21:14.113Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:23:54.854Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:23:54.869Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:23:55.011Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:25:03.901Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:25:03.987Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:25:04.365Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:30:57.873Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:30:57.936Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:30:58.370Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T13:31:08.505Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T13:31:08.533Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T13:31:10.697Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:47:21.464Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:47:21.643Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T13:48:06.320Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:48:06.417Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:48:06.693Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T13:48:09.771Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-10-25T13:48:14.600Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T13:48:22.080Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:48:26.049Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:48:26.134Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:48:55.259Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:48:59.588Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:48:59.620Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:50:56.562Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:50:56.587Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:50:56.772Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:51:04.951Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:51:05.091Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:51:05.428Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:51:27.344Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:51:30.252Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:51:30.270Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:53:43.767Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:53:43.789Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:53:43.917Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:55:46.418Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:55:46.450Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:55:46.525Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:55:47.138Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:55:47.184Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:57:04.899Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:57:04.955Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:57:05.074Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:57:10.657Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:57:10.677Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:57:42.150Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:57:42.181Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:57:42.326Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:59:29.527Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:59:29.620Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T13:59:38.205Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T13:59:38.213Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T13:59:38.349Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:05:49.169Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:05:49.191Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:05:49.324Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:06:05.472Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:06:05.492Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:06:43.019Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:06:43.032Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:06:43.083Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:07:27.699Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:07:30.544Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:07:31.650Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:07:31.664Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T14:07:53.015Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:07:54.282Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:07:54.332Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:08:50.698Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:08:50.808Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:08:53.757Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:08:53.766Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:08:53.824Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:18:10.715Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:18:10.772Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:18:10.804Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:18:13.288Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:18:13.325Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T14:18:46.220Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:18:47.052Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:18:47.078Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T14:19:15.407Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:07.476Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:07.571Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:11.291Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:20:11.296Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:20:11.380Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:17.708Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:17.823Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:20:40.538Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:20:40.559Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:42.640Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:42.660Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:20:45.157Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:20:45.171Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:20:45.224Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:20:47.324Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:20:47.348Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:21:10.089Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:21:10.124Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:21:10.186Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:21:11.651Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:21:11.670Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:21:13.791Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:21:13.914Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:21:38.268Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:21:38.299Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:22:10.293Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:22:10.367Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:22:14.093Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:22:14.113Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:22:14.197Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:23:29.154Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:23:29.284Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:23:33.336Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:23:33.358Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:23:33.410Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:24:54.990Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:24:55.200Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:25:07.931Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:25:07.963Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:25:10.901Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:25:10.923Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:25:10.959Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:27:43.342Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:27:43.384Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:27:45.416Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:27:45.419Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:27:45.466Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:28:54.294Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:28:54.310Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:29:07.152Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:29:07.216Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:29:08.886Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:29:08.900Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:29:08.975Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:29:10.753Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:29:10.788Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:29:42.722Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:29:42.773Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:31:42.905Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:31:42.983Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:32:23.744Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:32:23.954Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:32:27.276Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:32:27.305Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:32:27.352Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:32:29.838Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:32:29.859Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:34:01.763Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:34:01.997Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:34:05.271Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:34:05.280Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:34:05.363Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:37:14.925Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:37:15.008Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:38:48.907Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:38:48.917Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:38:49.089Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:38:51.904Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:38:51.916Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:39:10.471Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:39:10.630Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:39:14.315Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:39:14.318Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:39:14.388Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:40:12.323Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:40:12.418Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:16.673Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:16.789Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:41:20.410Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:20.423Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:41:20.535Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:28.764Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:28.827Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:39.922Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:39.976Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:41:47.384Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:41:47.394Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:41:47.481Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:43:51.334Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:43:51.345Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:43:51.390Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:46:38.645Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:46:38.654Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:46:38.743Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:46:53.575Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:46:53.596Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:47:05.238Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:47:05.254Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:47:05.338Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:47:06.954Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:47:06.977Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:50:05.302Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:50:05.316Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:52:11.070Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:52:11.097Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:52:20.095Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:52:20.187Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:53:43.186Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:53:43.225Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-25T14:53:51.979Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:53:51.989Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:53:52.031Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T14:54:01.664Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:54:05.304Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:54:05.381Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:54:06.291Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-25T14:54:06.300Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:54:06.312Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-25T14:54:06.323Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T14:54:23.716Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:54:24.628Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:54:24.647Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:55:45.728Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:55:45.787Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:55:45.807Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:55:50.148Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:55:50.203Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:56:03.136Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:56:03.152Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:56:03.243Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:56:32.947Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:56:33.075Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:56:35.947Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:56:35.973Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:56:36.074Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:57:26.413Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:57:26.615Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T14:57:28.133Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T14:57:28.150Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T14:57:28.239Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:00:09.006Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:00:09.037Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:04:03.443Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T15:04:23.754Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:04:26.082Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:04:26.110Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:04:50.516Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:04:50.590Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T15:04:52.901Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:04:57.893Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T15:05:01.864Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:05:03.338Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:05:03.358Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:06:35.511Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:06:35.544Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:10:34.367Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:10:34.512Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:10:38.088Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:10:38.133Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-25T15:10:42.033Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T15:10:49.680Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:10:54.452Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:10:54.525Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:11:04.540Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:11:04.554Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:11:04.682Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:11:12.365Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:11:14.822Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:11:14.889Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:11:17.916Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-25T15:11:17.956Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-25T15:11:26.690Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:11:28.245Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:11:28.263Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:12:26.209Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:12:26.223Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-25T15:12:30.518Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-25T15:12:30.593Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T02:33:58.988Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T02:34:17.319Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T02:34:18.685Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T02:34:18.712Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T02:34:24.038Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T02:34:32.403Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T02:34:34.036Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T02:34:34.064Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T02:34:39.923Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T02:34:43.643Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T02:34:43.656Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T02:34:53.704Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T02:34:53.742Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T02:34:54.920Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T02:35:00.530Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T02:35:01.896Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T02:35:01.946Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T02:42:11.388Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T02:42:11.406Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T02:42:11.586Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T02:43:12.146Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T02:43:12.152Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T02:43:12.413Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T02:51:58.087Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T02:51:58.185Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T02:51:58.488Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T02:56:21.754Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T02:56:21.853Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T02:56:22.052Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:20:15.556Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:20:15.579Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:20:15.686Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:20:40.925Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:20:40.959Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:23:36.265Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:23:36.291Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:23:55.683Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:23:55.698Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:23:55.838Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:25:33.816Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:25:33.860Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:25:33.966Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:26:37.908Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:26:37.930Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:26:38.007Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T03:27:11.210Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:27:12.434Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:27:12.457Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:29:41.767Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:29:41.798Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:29:41.899Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:29:43.890Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:29:43.945Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:33:53.058Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:33:53.073Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:33:53.201Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T03:34:36.880Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:34:36.890Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:34:36.946Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T03:34:41.960Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T03:34:47.613Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:34:48.752Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:34:48.786Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:35:37.351Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:35:37.355Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:35:37.412Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T03:35:55.221Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T03:35:55.253Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T03:35:56.705Z"}
+{level:"info", message:"User registered successfully", timestamp:"2024-10-26T03:36:50.870Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T03:38:28.902Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:38:33.813Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-26T03:38:33.820Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:38:33.831Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-26T03:38:33.856Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:38:58.609Z"}
+{level:"info", message:"Shop created successfully", timestamp:"2024-10-26T03:38:58.615Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:39:19.708Z"}
+{level:"info", message:"Product created successfully", timestamp:"2024-10-26T03:39:21.213Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T03:39:30.811Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:39:33.674Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:39:33.698Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:39:57.987Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:39:58.000Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:40:17.352Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:40:17.377Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:42:02.769Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:42:02.853Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:42:18.559Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:42:18.606Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:42:18.643Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:42:19.629Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:42:19.784Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:42:20.469Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-26T03:42:20.479Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:42:20.485Z"}
+{level:"info", message:"Fetched orders for shop", timestamp:"2024-10-26T03:42:20.511Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:43:44.254Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:43:44.377Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:43:56.992Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:43:57.076Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:44:01.399Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:44:01.421Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:44:01.587Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:46:08.951Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:46:09.035Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:46:18.261Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:46:18.315Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:46:20.734Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:46:20.746Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:46:20.944Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:47:27.097Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:47:27.416Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:47:40.217Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:47:40.282Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:47:43.767Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:47:43.784Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:47:43.871Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:48:32.055Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:48:32.089Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:48:42.098Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:48:42.110Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:50:14.004Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:50:14.601Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:50:25.251Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:50:25.484Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:51:46.497Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:51:46.753Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:51:52.591Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:51:52.595Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:51:52.676Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:52:47.098Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:52:47.109Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:52:49.626Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:52:49.642Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:52:49.672Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:54:40.311Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:54:40.549Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:55:26.929Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:55:27.170Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:59:37.262Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:59:37.284Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:59:46.553Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:59:46.564Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T03:59:55.563Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T03:59:55.587Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T03:59:55.694Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:00:11.177Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:00:11.191Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:00:22.261Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:00:22.277Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:00:22.358Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:00:24.594Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:00:24.640Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:00:54.309Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:00:54.320Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:00:57.071Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:00:57.081Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:00:57.157Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:02:05.075Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:02:05.152Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:02:16.286Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:02:16.330Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:03:23.688Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:03:23.745Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:04:56.771Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:04:56.869Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:05:07.273Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:05:07.291Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:05:07.374Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:06:45.514Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:06:45.530Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:07:18.378Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:07:18.434Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:08:42.441Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:08:42.518Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:08:51.063Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:08:51.149Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:09:54.227Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:09:54.301Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:10:02.828Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:10:02.844Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:10:05.952Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:10:05.960Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:10:06.109Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:10:25.384Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:10:25.469Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:10:39.216Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:10:39.232Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:10:39.281Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:12:17.121Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:12:17.200Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:12:24.942Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:12:24.965Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:14:18.509Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:14:18.576Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:14:31.537Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:14:31.635Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:15:10.765Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:15:10.797Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:19:44.408Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:19:44.437Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:19:50.388Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:19:50.403Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:19:55.068Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:19:55.096Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:19:55.234Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:20:22.913Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:20:23.267Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:20:28.084Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:20:28.212Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:20:28.864Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:21:55.458Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:21:55.490Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:21:55.579Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:33:04.657Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:33:04.689Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T04:51:20.074Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T04:51:20.102Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:51:21.825Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T04:51:21.842Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:51:21.889Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T04:52:27.648Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T04:52:27.669Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T04:52:29.080Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:52:33.827Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:52:33.866Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:52:44.248Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:52:44.266Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:52:52.483Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:52:52.560Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:08.918Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:08.954Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:18.881Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:18.896Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:53:19.975Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-26T04:53:19.980Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:53:20.099Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T04:53:21.973Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T04:53:28.018Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:53:30.761Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:53:30.810Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:34.785Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:34.809Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:48.907Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:48.939Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:53:51.502Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:53:51.515Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:53:51.582Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T04:55:49.234Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T04:55:54.169Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T04:55:55.727Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T04:55:55.790Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:57:05.147Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:57:05.267Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:57:09.241Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:57:09.261Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:57:13.642Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T04:57:13.695Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:00:59.952Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:01:00.086Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:01:12.631Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:01:12.736Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:02:11.499Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:02:11.595Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T05:02:17.961Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:02:17.981Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T05:02:18.110Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-10-26T05:02:30.051Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-10-26T05:02:34.624Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-10-26T05:02:35.465Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-10-26T05:02:45.540Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T05:02:52.280Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-10-26T05:03:02.404Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-10-26T05:03:07.697Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T05:03:08.990Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T05:03:09.052Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T05:05:12.767Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:05:12.850Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T05:05:12.977Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:06:40.802Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:06:40.825Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-10-26T05:06:54.151Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-10-26T05:06:54.157Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-10-26T05:06:54.221Z"}

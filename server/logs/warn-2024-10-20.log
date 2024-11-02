@@ -1,0 +1,33 @@
+{level:"error", message:"Error updating product", timestamp:"2024-10-20T07:31:34.683Z"}
+{level:"error", message:"Error updating product", timestamp:"2024-10-20T07:41:06.440Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:17:41.688Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:17:41.737Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:19:36.434Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T08:19:36.487Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:22:13.332Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:22:13.395Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:39.358Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:39.385Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:52.563Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:52.641Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:57.845Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:24:57.949Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:25:13.588Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T09:25:13.610Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-20T10:11:11.819Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-20T10:11:37.373Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-10-20T10:11:48.502Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:26:09.274Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:26:14.926Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:26:15.027Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:26:26.792Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T10:28:58.887Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:31:11.464Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:31:28.058Z"}
+{level:"error", message:"Error updating order status", timestamp:"2024-10-20T10:36:34.312Z"}
+{level:"warn", message:"Insufficient stock for product", timestamp:"2024-10-20T10:38:53.343Z"}
+{level:"error", message:"Error updating product", timestamp:"2024-10-20T11:30:03.493Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:25.076Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:25.138Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:27.968Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-10-20T11:31:27.996Z"}
