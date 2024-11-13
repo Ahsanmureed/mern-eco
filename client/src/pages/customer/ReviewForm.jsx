@@ -10,12 +10,15 @@ const ReviewForm = () => {
   const [product, setProduct] = useState({});
   const navigate  =  useNavigate();
 const slug = useParams().slug
+
+
+
 const orderId = useParams().order
 
 const fetchProduct= async()=>{
  try {
   const {data}= await axios.get(`http://localhost:3000/api/v1/product/${slug}`)
-  setProduct(data.data);
+  setProduct(data.data[0]);
  } catch (error) {
   console.log(error);
   

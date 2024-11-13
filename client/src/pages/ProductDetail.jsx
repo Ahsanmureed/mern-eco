@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
+import { Helmet } from 'react-helmet';  
 import Review from '../components/Review';
 import ProductDetailsSkelton from '../components/skeltons/ProductDetailsSkelton';
 import { useDispatch } from 'react-redux';
@@ -45,26 +46,34 @@ const ProductDetail = () => {
 
     return (
         <>
-            <div className="container mx-auto pt-[120px] px-20 py-10">
-                <div className="flex flex-col md:flex-row items-center md:space-x-6">
-                    <div className='flex flex-col'>
-                        <div className="w-full flex flex-col md:w-1/2 mb-6">
+            <Helmet>
+                <title>{product?.name} - Product Details</title>
+                <meta name="description" content={product?.description || 'No description available for this product.'} />
+            </Helmet>
+
+            <div className=" px-6 md:px-8 lg:px-20 pt-[90px]   lg:pt-[120px]  py-10">
+                <div className="flex flex-col md:flex-row  ">
+                    {/* Main Image Section */}
+                    <div className='flex flex-col mb-6'>
+                        <div className="w-full flex flex-col mb-6">
                             {selectedImage && (
                                 <img
                                     src={selectedImage}
                                     alt={product?.name}
-                                    className="w-[35vw] h-[35vh] object-center rounded-lg shadow-lg mb-4 transition-transform duration-200 hover:scale-105"
+                                    className=" w-[90vw] h-[45vh]  lg:w-[30vw]  lg:h-[45vh] md:w-[40vw]  md:h-[30vh]    object-contain rounded-lg shadow-lg mb-4 transition-transform duration-200 hover:scale-105"
                                 />
                             )}
                         </div>
-                        <div className="flex flex-row items-center space-x-2 md:w-1/2">
+
+                        {/* Thumbnail Images */}
+                        <div className="flex flex-row items-center space-x-2 ">
                             {product?.images && product?.images.length > 0 ? (
                                 product.images.map((img, index) => (
                                     <img
                                         key={index}
                                         src={img}
                                         alt={`Thumbnail ${index + 1}`}
-                                        className="w-[5vw] h-[6vh] rounded-lg cursor-pointer border border-gray-300 transition-transform duration-200 hover:scale-105"
+                                        className="w-[15vw] sm:w-[20vw] md:w-[7vw] md:h-[5vh]  lg:h-[7vh] lg:w-[6vw] h-[7vh] rounded-lg cursor-pointer border border-gray-300 transition-transform duration-200 hover:scale-110"
                                         onClick={() => setSelectedImage(img)}
                                     />
                                 ))
@@ -74,12 +83,13 @@ const ProductDetail = () => {
                         </div>
                     </div>
 
-                    <div className="mt-6 md:mt-0 md:w-1/2">
+                    {/* Product Details */}
+                    <div className="mt-6 mx-auto md:mt-8 ">
                         <h1 className="text-4xl font-bold text-gray-900">{product?.name}</h1>
                         <p className="mt-2 text-2xl text-gray-800">${product?.price}</p>
                         <div className="mt-4 flex items-center space-x-4">
-                            <button 
-                                onClick={handleAddToCart} 
+                            <button
+                                onClick={handleAddToCart}
                                 className="bg-gray-900 text-white py-2 px-6 rounded-md shadow hover:bg-gray-700 transition"
                             >
                                 Add to Cart
@@ -91,8 +101,8 @@ const ProductDetail = () => {
                                 <li>Quantity Available: <span className="font-medium">{product?.quantity}</span></li>
                                 <li className='mt-1.5'>
                                     Sold By: <strong>{product?.shopDetails?.name}</strong>
-                                    <button 
-                                        className='p-1 bg-blue-600 rounded-md text-white ml-2' 
+                                    <button
+                                        className='p-1 bg-blue-600 rounded-md text-white ml-2'
                                         onClick={() => setChatOpen(true)}
                                     >
                                         Chat now
@@ -103,6 +113,7 @@ const ProductDetail = () => {
                     </div>
                 </div>
             </div>
+
             <div className="bg-gray-50 py-10">
                 <div className="container mx-auto px-4">
                     <Review productId={product?._id} />
@@ -110,11 +121,11 @@ const ProductDetail = () => {
             </div>
 
             {/* Chat Modal */}
-            <ChatModal 
-                isOpen={isChatOpen} 
-                onClose={() => setChatOpen(false)} 
-                recipientId={product.shopDetails?.userId} 
-                recipientName={product.shopDetails?.name} 
+            <ChatModal
+                isOpen={isChatOpen}
+                onClose={() => setChatOpen(false)}
+                recipientId={product.shopDetails?.userId}
+                recipientName={product.shopDetails?.name}
             />
         </>
     );

@@ -4,11 +4,11 @@ import { AppError } from "../utils/errorHandler.js";
 import logger from '../utils/logger.js'; 
 import slugify from "slugify"
 const createProductController = async (req, res) => {
-  const { name, price, quantity } = req.body;
+  const { name, price, quantity,subCategory ,description} = req.body;
   const images = req.files ? req.files.map(file => file.path) : [];
 
   try {
-    if (!name || !price || !quantity) {
+    if (!name || !price || !quantity || !subCategory,!description) {
       logger.warn("Product creation attempt with missing fields", { name, price, quantity });
       return res.status(400).json({
         success: false,
@@ -40,11 +40,13 @@ const createProductController = async (req, res) => {
     const saveNewProduct = new productModel({
       name,
       slug: uniqueSlug, 
+      description,
       price,
       quantity,
       shopId: shopId._id,
       userId: req.userId,
       images,
+      subCategory
     });
 
     await saveNewProduct.save();

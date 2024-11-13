@@ -92,7 +92,7 @@ const userLoginController = async (req, res, next) => {
     const user = await userModel.findOne({ email });
     if (!user) {
       logger.warn("Incorrect email during login attempt", { email });
-      return next(new AppError("Email is incorrect", 401));
+      return next(new AppError("The email address you entered doesn’t match any account", 401));
     }
 
     // Password check

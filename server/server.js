@@ -1,7 +1,6 @@
 import express from 'express';
 import connection from "./database/db.js";
 import dotenv from 'dotenv';
-import multer from "multer";
 import { errorHandler } from "./utils/errorHandler.js";
 import router from "./routes/index.js";
 import path from 'path';

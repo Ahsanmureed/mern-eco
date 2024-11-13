@@ -88,7 +88,7 @@ const customerLoginController = async (req, res, next) => {
     const customer = await customerModel.findOne({ email });
     if (!customer) {
       logger.warn("Login attempt with incorrect email", { email });
-      return next(new AppError("Email is incorrect", 401));
+      return next(new AppError("The email address you entered doesn’t match any account", 401));
     }
     
     const checkPassword = await bcrypt.compare(password, customer.password);

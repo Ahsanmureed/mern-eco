@@ -4,7 +4,7 @@ import userModel from '../models/userSchema.js'
 import mongoose from "mongoose";
 const getMessagesController =async (req,res)=>{
     const { senderId, recipientId } = req.params;
-    const chatId = `${senderId}-${recipientId}`;
+    const chatId = [senderId, recipientId].sort().join('-');
   
     try {
       const messages = await messageModel.findOne({ chatId });

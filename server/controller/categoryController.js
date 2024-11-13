@@ -3,6 +3,13 @@ import categoryModel from "../models/categorySchema.js";
  const createCategoryController = async (req, res) => {
   try {
     const { name } = req.body;
+    //validation
+    const checkCat = await categoryModel.findOne({name});
+    if(checkCat){
+      return res.status(401).json({
+        message:'Category already exist'
+      })
+    }
     const newCategory = new categoryModel({ name });
     await newCategory.save();
     res.status(201).json({ message: 'Category created successfully', category: newCategory });

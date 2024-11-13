@@ -9,6 +9,9 @@ const productSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  description:{
+    type: String
+  },
   price: {
     type: Number,
     required: true,
@@ -25,6 +28,7 @@ const productSchema = new mongoose.Schema({
     type: mongoose.Schema.ObjectId,
   },
   reviews: [{ type: mongoose.Schema.Types.ObjectId}],
+  subCategory: { type: mongoose.Schema.Types.ObjectId}
 });
 const productModel = mongoose.model("products", productSchema);
 export default productModel;

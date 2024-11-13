@@ -20,46 +20,51 @@ const socketSetup = (server) => {
         });
 
         socket.on('sendMessage', async ({ recipientId, content, senderId, senderName }) => {
-            const chatId = [senderId, recipientId].sort().join('-');
-
-            const messageDoc = await messageModel.findOneAndUpdate(
-                { chatId },
-                { 
-                    $push: { 
-                        messages: { 
-                            senderId, 
-                            recipientId, 
-                            content,
-                            timestamp: Date.now() 
-                        } 
-                    } 
-                },
-                { new: true, upsert: true } 
-            );
-
-            const recipientSocketId = users[recipientId];
-            if (recipientSocketId) {
-                // Emit the received message to the recipient
-                io.to(recipientSocketId).emit('receiveMessage', {
-                    content,
-                    senderId,
-                    recipientId,
-                    senderName,
-                    timestamp: Date.now(),
-                });
-
-              ;
-
-                // Emit last message update for the chat list
-                io.emit('updateLastMessage', {
-                    senderId,
-                    recipientId,
-                    content,
-                });
-            } else {
-                console.log(`User ${recipientId} is not connected`);
+            try {
+               
+                const chatId = [senderId, recipientId].sort().join('-'); 
+              
+                const messageDoc = await messageModel.findOneAndUpdate(
+                    { chatId },
+                    { 
+                        $push: { 
+                            messages: { 
+                                senderId, 
+                                recipientId, 
+                                content,
+                                timestamp: Date.now() 
+                            } 
+                        }
+                    },
+                    { new: true, upsert: true } // Ensure we create the document if it doesn't exist
+                );
+        
+                // Ensure the recipient is connected (via their socketId)
+                const recipientSocketId = users[recipientId];
+                if (recipientSocketId) {
+                    // Emit the message to the recipient
+                    io.to(recipientSocketId).emit('receiveMessage', {
+                        content,
+                        senderId,
+                        recipientId,
+                        senderName,
+                        timestamp: Date.now(),
+                    });
+        
+                    io.emit('updateLastMessage', {
+                        senderId,
+                        recipientId,
+                        content,
+                    });
+                } else {
+                    console.log(`User ${recipientId} is not connected`);
+                }
+            } catch (error) {
+                console.error('Error while sending message:', error);
             }
         });
+        
+        
 
         socket.on('disconnect', () => {
             for (const userId in users) {

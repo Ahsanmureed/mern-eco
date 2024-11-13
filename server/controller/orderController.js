@@ -238,7 +238,8 @@ const updateOrderStatusController = async (req, res) => {
           (order) => order.status === "delivered"
         );
         const anyRejected = orders.some((o) => o.status === "rejected");
-
+   console.log(allDelivered);
+   
         if (allDelivered) {
           masterOrder.status = "delivered";
         } else if (allShipped) {

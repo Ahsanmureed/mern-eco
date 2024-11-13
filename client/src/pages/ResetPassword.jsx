@@ -10,6 +10,7 @@ const ResetPassword = () => {
     const { token } = useParams();
     const dispatch = useDispatch();
     const [password, setPassword] = useState('');
+    const [errorMessage,setErrorMessage]= useState('')
     const [confirmPassword, setConfirmPassword] = useState('');
     const [error, setError] = useState('');
 
@@ -18,7 +19,7 @@ const ResetPassword = () => {
         setError('');
 
         if (password !== confirmPassword) {
-            setError("Passwords do not match.");
+            setErrorMessage("Passwords do not match.");
             return;
         }
 
@@ -28,10 +29,10 @@ const ResetPassword = () => {
                 toast.success(action.payload);
                 navigate('/login');
             } else {
-                setError(action.error.message);
+                setErrorMessage(action.error.message);
             }
         } catch (error) {
-            setError(error.message);
+            setErrorMessage(error.message);
         }
     };
 
@@ -103,7 +104,11 @@ const ResetPassword = () => {
                             />
                         </div>
                     </div>
-
+                    {errorMessage && (
+                        <div className="text-red-500 text-sm mt-2">
+                            {errorMessage}
+                        </div>
+                    )}
                     <div>
                         <button
                             type="submit"

@@ -1,0 +1,23 @@
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-09T11:11:14.655Z"}
+{level:"warn", message:"User login attempt with missing email", timestamp:"2024-11-09T11:13:43.907Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-11-09T11:15:50.538Z"}
+{level:"error", message:"Error during product creation", timestamp:"2024-11-09T11:16:01.038Z"}
+{level:"warn", message:"Incorrect password during login attempt", timestamp:"2024-11-09T11:22:42.027Z"}
+{level:"warn", message:"Incorrect email during login attempt", timestamp:"2024-11-09T11:22:49.875Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-09T11:25:42.202Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-09T11:25:42.215Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-09T11:26:26.382Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-09T11:26:29.289Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-09T11:26:31.733Z"}
+{level:"error", message:"Error during product creation", timestamp:"2024-11-09T11:33:38.413Z"}
+{level:"error", message:"Error during product creation", timestamp:"2024-11-09T11:33:55.029Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-11-09T11:34:20.412Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-11-09T11:34:24.051Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-11-09T11:34:38.858Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-09T11:58:29.427Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-09T11:58:57.432Z"}
+{level:"warn", message:"Password is required", timestamp:"2024-11-09T11:59:29.414Z"}
+{level:"warn", message:"Password is required", timestamp:"2024-11-09T12:02:19.833Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-11-09T12:02:30.115Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-09T12:03:00.976Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-09T12:30:18.675Z"}

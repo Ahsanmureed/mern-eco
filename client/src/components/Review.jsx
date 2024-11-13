@@ -14,7 +14,6 @@ const Review = ({ productId }) => {
         const { data } = await axios.get(`http://localhost:3000/api/v1/review/product/${slug}`);
         setReviews(data.data);
     };
-console.log(reviews);
 
  
     useEffect(() => {

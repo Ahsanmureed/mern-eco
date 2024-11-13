@@ -77,7 +77,7 @@ console.log(messages);
         setLoadingMessages(true);
 
         try {
-            const response = await axios.get(`http://localhost:3000/api/v1/message/messages/${user?._id}/${recipientId}`);
+            const response = await axios.get(`http://localhost:3000/api/v1/message/messages/${recipientId}/${user?._id}`);
             console.log(response);
             
             setMessages(response.data );
@@ -115,7 +115,8 @@ console.log(messages);
         
         setInput('');
     };
-
+    console.log(chatList);
+    
     return (
        <>
        {
@@ -128,7 +129,7 @@ console.log(messages);
                     chatList.map((chat) => (
                         <div
                             key={chat.id}
-                            onClick={() => handleChatSelect(chat.id, chat.name)}
+                            onClick={() => handleChatSelect(chat?.id, chat?.name)}
                             className={`chat-item cursor-pointer mb-2 p-2 rounded ${
                                 selectedChat?.recipientId === chat.id ? 'bg-blue-200' : 'hover:bg-gray-200'
                             }`}

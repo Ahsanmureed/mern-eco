@@ -3,7 +3,25 @@ import categoryModel from '../models/categorySchema.js';
  const createSubCategoryController = async (req, res) => {
   try {
     const { name, mainCategoryId } = req.body;
+    if(!name){
+      return res.status(401).json({
+        message:'name is required'
+      })
+    }
+    if(!mainCategoryId){
+      return res.status(401).json({
+        message:'Main Category is required'
+      })
+    }
+ //validation
+ const checkCatName = await subcategoryModel.findOne({name});
+ if(checkCatName){
+   return res.status(401).json({
+     message:'Category already exist'
+   })
+ }
 
+ 
     const mainCategory = await categoryModel.findById(mainCategoryId);
     if (!mainCategory) {
       return res.status(400).json({ message: 'Main category not found' });

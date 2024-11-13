@@ -8,10 +8,7 @@
 .height{
   height: calc(100vh - 70px);
 
-  background-position: top;
- background-size: auto;
-  width: 100%;
-  background-image: url('../src/assets/banner-bg.jpg');
+
 }
 
 .container {
