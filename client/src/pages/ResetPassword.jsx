@@ -45,7 +45,7 @@ const ResetPassword = () => {
             setError('Token has expired or is invalid. Please request a new password reset link.');
             setTimeout(() => {
                 navigate('/login');
-            }, 4000); 
+            }, 5000); 
         }
     };
 

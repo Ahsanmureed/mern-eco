@@ -87,6 +87,9 @@ const Orders = () => {
                   <strong>Payment:</strong> {order.total_amount}$
                 </p>
                 <p>
+                  <strong>Payment method type:</strong> {order?.billing_type}
+                </p>
+                <p>
                   <strong>Status:</strong> {order.status}
                 </p>
                 <h3 className="font-semibold mt-2">Products:</h3>

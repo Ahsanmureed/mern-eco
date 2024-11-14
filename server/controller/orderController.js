@@ -6,80 +6,84 @@ import masterOrderModel from "../models/masterOrderSchema.js";
 import logger from "../utils/logger.js";
 import shopModel from "../models/shopSchema.js";
 const createOrderController = async (req, res, next) => {
-  
-    const { products } = req.body;
+  const { products, billing_address, shipment_address, billing_type } = req.body;
 
-    if (!Array.isArray(products) || products.length === 0) {
-      logger.warn("Invalid order data", { customer_id, products });
-      return res.status(400).send("Invalid order data.");
-    }
+  if (!products || products.length === 0 || !Array.isArray(products)) {
+      return res.status(400).res({message:"Please fill the required fields."});
+  }
 
-    // Step 2: Group products by shopId
-    const ordersByShop = {};
-    for (const { product_id, product_quantity } of products) {
+  const requiredAddressFields = ['street', 'city', 'state', 'zip', 'phone_number'];
+  const missingShipmentAddressFields = requiredAddressFields.filter(field => !shipment_address[field]);
+  const missingBillingAddressFields = requiredAddressFields.filter(field => !billing_address[field]);
+
+  if (missingShipmentAddressFields.length > 0 || missingBillingAddressFields.length > 0) {
+      return res.status(400).json({message:"Please fill the required fields."});
+  }
+
+  const ordersByShop = {};
+  for (const { product_id, product_quantity } of products) {
       const product = await productModel.findById(product_id);
       if (!product) {
-        logger.warn("Product not found", { product_id });
-        return res.status(404).send(`Product with ID ${product_id} not found.`);
+          logger.warn("Product not found", { product_id });
+          return res.status(404).json({message:`Product not found.`});
       }
 
-      // Create a new order entry for the respective shopId
       if (!ordersByShop[product.shopId]) {
-        ordersByShop[product.shopId] = {
-          products: [],
-          total_amount: 0,
-          shop_id: product.shopId,
-          shipment_address: req.body.shipment_address,
-          billing_address: req.body.billing_address,
-          billing_type: req.body.billing_type,
-        };
+          ordersByShop[product.shopId] = {
+              products: [],
+              total_amount: 0,
+              shop_id: product.shopId,
+              shipment_address: shipment_address, 
+              billing_address: billing_address,    
+              billing_type: billing_type,          
+          };
       }
 
-      // Add the product to the respective shop's order
       ordersByShop[product.shopId].products.push({
-        product_id,
-        product_quantity,
+          product_id,
+          product_quantity,
       });
 
-      // Update the total amount
-      ordersByShop[product.shopId].total_amount +=
-        product.price * product_quantity;
-    }
-    const orderReferences = [];
-    // Step 3: Create orders for each shop
-    for (const shopId in ordersByShop) {
+      ordersByShop[product.shopId].total_amount += product.price * product_quantity;
+  }
+
+  const orderReferences = [];
+  for (const shopId in ordersByShop) {
       const orderData = ordersByShop[shopId];
       const newOrder = new orderModel({
-        customer_id: req.userId,
-        products: orderData.products,
-        total_amount: orderData.total_amount,
-        shop_id: shopId,
-        shipment_address: orderData.shipment_address,
-        billing_address: orderData.billing_address,
-        billing_type: orderData.billing_type,
-        status: "in_progress",
+          customer_id: req.userId,
+          products: orderData.products,
+          total_amount: orderData.total_amount,
+          shop_id: shopId,
+          shipment_address: orderData.shipment_address,
+          billing_address: orderData.billing_address,
+          billing_type: orderData.billing_type,
+          status: "in_progress",
       });
       const saveOrder = await newOrder.save();
       orderReferences.push(saveOrder._id);
       logger.info("Order created", { orderId: saveOrder._id, shopId });
-    }
-    const savedMasterOrder = new masterOrderModel({
+  }
+
+  const savedMasterOrder = new masterOrderModel({
       customer_id: req.userId,
       order_references: orderReferences,
       total_amount: 1500,
-      shipment_address: req.body.shipment_address,
-      billing_address: req.body.billing_address,
-      billing_type: req.body.billing_type,
+      shipment_address: shipment_address,
+      billing_address: billing_address,
+      billing_type: billing_type,
       status: "in_progress",
-    });
-    await savedMasterOrder.save();
-    await orderModel.updateMany(
+  });
+
+  await savedMasterOrder.save();
+  await orderModel.updateMany(
       { _id: { $in: orderReferences } },
       { master_order_id: savedMasterOrder._id }
-    );
-    res.status(201).json({ message: "created" });
- 
+  );
+
+  res.status(201).json({ message: "order created" });
 };
+
 const singleOrderDetailController = async (req, res) => {
   const orderId = new mongoose.Types.ObjectId(req.params.id);
   try {

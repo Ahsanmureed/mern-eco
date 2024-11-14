@@ -19,7 +19,7 @@ const __dirname = path.dirname(__filename);
 const server = createServer(app);
 
 // Setup Socket.io
-const io = socketSetup(server); // Pass the server to the socket setup
+const io = socketSetup(server);
 
 // Middlewares
 app.use(express.json());

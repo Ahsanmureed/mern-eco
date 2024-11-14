@@ -16,7 +16,7 @@ const SearchResult = () => {
         sortBy: 'name',
         sortOrder: 'asc',
         loading: true,
-        searchQuery: '',  // Store search query here
+        searchQuery: '',  
     });
 
     const fetchProducts = async (page, searchQuery = '') => {
@@ -27,7 +27,7 @@ const SearchResult = () => {
         URLSearch.set('sortBy', state.sortBy);
         URLSearch.set('sortOrder', state.sortOrder);
         if (searchQuery) {
-            URLSearch.set('search', searchQuery);  // Add search query to URL
+            URLSearch.set('search', searchQuery);  
         }
 
         try {
@@ -73,21 +73,21 @@ const SearchResult = () => {
         if (state.searchQuery) {
             const URLSearch = new URLSearchParams(query.search);
             URLSearch.set('search', state.searchQuery);
-            URLSearch.set('page', 1); // Reset to the first page on new search
+            URLSearch.set('page', 1); 
             navigate(`/search?${URLSearch.toString()}`);
         }
     };
 
     return (
         <div className="flex flex-col pt-[70px]">
-            {/* Search Input and Sort by in Responsive Layout */}
+            
             <div className="flex flex-col sm:flex-row justify-between items-center p-4 w-full space-y-4 sm:space-y-0 sm:space-x-4">
                 <form onSubmit={handleSearchSubmit} className="flex items-center w-full sm:max-w-2xl space-x-2">
                     <input
                         type="text"
                         value={state.searchQuery}
                         onChange={handleSearchChange}
-                        className="w-full sm:w-2/3 p-2 border rounded-l-lg focus:outline-none"
+                        className="w-full sm:w-2/3 p-2 border-2 rounded-l-lg focus:outline-none"
                         placeholder="Search for products..."
                     />
                     <button
@@ -113,7 +113,7 @@ const SearchResult = () => {
                 </div>
             </div>
 
-            {/* Products Display */}
+         
             <div className="p-4">
                 {state.loading ? (
                     <SearchResultSkeleton count={6} /> 

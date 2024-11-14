@@ -12,6 +12,22 @@ export const getOrders = createAsyncThunk('/get/orders',async(id)=>{
     }
 })
 
+
+export const createOrder = createAsyncThunk(
+    'orders/createOrder',
+    async (orderData) => {
+      try {
+        const token = localStorage.getItem('token');
+        const response = await axios.post('http://localhost:3000/api/v1/order/create/order', orderData, {
+          headers: { Authorization: `Bearer ${token}` },
+        });
+        return response.data; 
+      } catch (error) {
+       throw new Error(error.response.data.message);
+      }
+    }
+  );
+
 const initialState = {
     orders:null,
     loading:false,
@@ -36,6 +52,18 @@ state.error=null
     state.loading=false,
     state.error=action.error.message
 })
+  .addCase(createOrder.pending, (state) => {
+        state.loading = true;
+        state.error = null;
+      })
+      .addCase(createOrder.fulfilled, (state, action) => {
+        state.loading = false;
+        state.order = action.payload;
+      })
+      .addCase(createOrder.rejected, (state, action) => {
+        state.loading = false;
+        state.error = action.payload;
+      });
     }
 })
 export default orderSlice.reducer;

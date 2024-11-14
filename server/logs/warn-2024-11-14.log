@@ -1,0 +1,61 @@
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T07:02:10.904Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T07:09:25.979Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T07:09:32.977Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T08:10:10.725Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-11-14T08:35:25.412Z"}
+{level:"warn", message:"Authorization header is missing", timestamp:"2024-11-14T08:36:05.575Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T09:40:14.719Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T09:40:18.469Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T09:40:19.768Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T09:40:32.664Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T11:31:48.008Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T11:32:18.614Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:12:42.038Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:13:12.967Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:14:11.962Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:15:35.772Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:15:57.768Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:16:05.156Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:16:13.720Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:16:17.172Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:16:38.724Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:17:06.613Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:17:16.713Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:17:21.151Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:17:28.444Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:18:09.513Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:18:38.768Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T12:31:05.774Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T12:34:28.900Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T12:34:35.456Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T13:12:50.675Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T13:13:06.547Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T13:13:16.497Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T13:13:18.334Z"}
+{level:"error", message:"Error during password reset process", timestamp:"2024-11-14T13:15:16.822Z"}
+{level:"error", message:"Error during password reset process", timestamp:"2024-11-14T13:16:37.614Z"}
+{level:"error", message:"Error during password reset process", timestamp:"2024-11-14T13:16:38.383Z"}
+{level:"error", message:"Error during password reset process", timestamp:"2024-11-14T13:18:04.543Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T13:57:54.308Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:00:12.633Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:00:14.723Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:00:33.728Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:00:34.528Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:00:49.646Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:01:13.185Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:01:14.495Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:01:27.562Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:01:33.795Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:01:55.148Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:02:30.887Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:03:06.252Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:03:48.229Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:04:43.827Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:05:17.550Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:06:06.079Z"}
+{level:"warn", message:"Invalid token", timestamp:"2024-11-14T14:06:20.447Z"}
+{level:"warn", message:"Token already used or invalid", timestamp:"2024-11-14T14:23:43.753Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T15:39:49.739Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T15:49:56.777Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-14T15:51:44.864Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-14T15:53:37.061Z"}

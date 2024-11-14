@@ -62,35 +62,7 @@ const Review = ({ productId }) => {
                 <p className="text-gray-600">No reviews yet.</p>
             )}
 
-            {/* <form onSubmit={handleSubmit} className="mt-6 p-4 border rounded-lg shadow-md bg-white">
-                <h3 className="text-xl font-semibold mb-2">Write a Review</h3>
-                <div className="mb-4">
-                    <label className="block text-gray-700">Rating:</label>
-                    <div className="flex my-2">
-                        {[1, 2, 3, 4, 5].map((r) => (
-                            <span
-                                key={r}
-                                className={`text-xl cursor-pointer ${r <= rating ? 'text-yellow-500' : 'text-gray-400'}`}
-                                onClick={() => setRating(r)}
-                            >
-                                ★
-                            </span>
-                        ))}
-                    </div>
-                </div>
-                <div className="mb-4">
-                    <label className="block text-gray-700">Comment:</label>
-                    <textarea
-                        value={comment}
-                        onChange={(e) => setComment(e.target.value)}
-                        className="mt-1 block w-full border rounded-md p-2 h-24"
-                    />
-                </div>
-                <button type="submit" className="bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-500 transition">
-                    Submit Review
-                </button>
-                {error && <p className="mt-2 text-red-500">{error}</p>}
-            </form> */}
+           
         </div>
     );
 };

@@ -1,6 +1,5 @@
 import mongoose from "mongoose"
 import masterOrderModel from "../models/masterOrderSchema.js"
-
 const userMasterOrderController = async (req, res) => {
     try {
         const  id  = req.params.id;
@@ -24,7 +23,7 @@ const userMasterOrderController = async (req, res) => {
             },
             {
                 $lookup: {
-                    from: 'products', // Assuming your products collection is named 'products'
+                    from: 'products', 
                     localField: 'order_references.products.product_id',
                     foreignField: '_id',
                     as: 'product_details'
@@ -43,12 +42,13 @@ const userMasterOrderController = async (req, res) => {
                                         { $indexOfArray: ['$product_details._id', '$$product.product_id'] }
                                     ]
                                 },
-                                product_quantity: '$$product.product_quantity' // Add product_quantity
+                                product_quantity: '$$product.product_quantity'
                             }
                         }
                     }
                 }
             },
+           
             {
                 $group: {
                     _id: '$_id',
@@ -62,12 +62,17 @@ const userMasterOrderController = async (req, res) => {
                     createdAt: { $first: '$createdAt' },
                     updatedAt: { $first: '$updatedAt' }
                 }
-            }
+            },
+            {
+                $sort: {
+                    createdAt: -1  
+                }
+            },
         ]);
 
         res.json({data:orders});
     } catch (error) {
-        res.status(500).json({ error: error.message });
+        res.status(500).json({ message: 'Something went wrong, please try again later' });
     }
 };
 

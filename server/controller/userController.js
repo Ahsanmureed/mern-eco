@@ -71,7 +71,7 @@ const userRegisterController = async (req, res, next) => {
     });
   } catch (error) {
     logger.error("Error during user registration", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -119,7 +119,7 @@ const userLoginController = async (req, res, next) => {
     });
   } catch (error) {
     logger.error("Error during user login", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -154,7 +154,7 @@ const userPaginationController = async (req, res, next) => {
     return res.json({ total, limit: parsedLimit, skip: parsedSkip, data });
   } catch (error) {
     logger.error("Error during user pagination", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -170,7 +170,7 @@ const singleUserController = async (req, res, next) => {
     return res.json({ data });
   } catch (error) {
     logger.error("Error fetching single user", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -185,7 +185,7 @@ const deleteUserController = async (req, res, next) => {
     return res.json({ message: 'deleted successfully' });
   } catch (error) {
     logger.error("Error deleting user", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -200,7 +200,7 @@ const updateUserController = async (req, res, next) => {
     return res.json({ data: updateUser });
   } catch (error) {
     logger.error("Error updating user", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -211,7 +211,7 @@ const allUserController = async (req, res, next) => {
     return res.json({ data });
   } catch (error) {
     logger.error("Error fetching all users", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -246,7 +246,7 @@ const forgotPassword = async (req, res, next) => {
     return res.json({ message: "Email has been sent to your Gmail" });
   } catch (error) {
     logger.error("Error during password reset", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 const fetchUserController = async(req,res)=>{
@@ -260,7 +260,7 @@ const fetchUserController = async(req,res)=>{
        res.json({data:user});
   } catch (error) {
    logger.error("Error during fetching user", { error });
-   return next(new AppError("Internal server error", 500));
+   return next(new AppError("Something went wrong, please try again later", 500));
   }
 
 }

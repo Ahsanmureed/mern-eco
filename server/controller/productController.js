@@ -122,7 +122,7 @@ const singleProductController = async (req, res, next) => {
   {$unwind:'$shopDetails'}
 ])
 
-    if (!data) {
+    if (!data || data.length===0 ) {
       logger.warn("Product not found", { productSlug: slug });
       return next(new AppError("Product not found", 404));
     }

@@ -36,7 +36,7 @@ const createShopController = async (req, res) => {
     logger.error("Error during shop creation", { error });
     return res.status(500).json({
       success: false,
-      message: "Internal server error"
+      message: "Something went wrong, please try again later"
     });
   }
 };
@@ -73,7 +73,7 @@ const shopPaginationController = async (req, res, next) => {
     return res.json({ total, limit: parsedLimit, skip: parsedSkip, data });
   } catch (error) {
     logger.error("Error during shop pagination", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -89,7 +89,7 @@ const singleShopController = async (req, res, next) => {
     return res.json({ data });
   } catch (error) {
     logger.error("Error fetching single shop", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -104,7 +104,7 @@ const deleteShopController = async (req, res, next) => {
     return res.json({ message: 'deleted successfully' });
   } catch (error) {
     logger.error("Error deleting shop", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -119,7 +119,7 @@ const updateShopController = async (req, res, next) => {
     return res.json({ data: updateShop });
   } catch (error) {
     logger.error("Error updating shop", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 
@@ -130,7 +130,7 @@ const allShopController = async (req, res, next) => {
     return res.json({ data });
   } catch (error) {
     logger.error("Error fetching all shops", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 };
 const userShopController = async(req,res,next)=>{
@@ -141,7 +141,7 @@ const userShopController = async(req,res,next)=>{
         
   } catch (error) {
     logger.error("Error fetching user shop", { error });
-    return next(new AppError("Internal server error", 500));
+    return next(new AppError("Something went wrong, please try again later", 500));
   }
 }
 export {
