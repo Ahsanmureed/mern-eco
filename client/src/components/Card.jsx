@@ -24,7 +24,7 @@ const navigate =useNavigate()
       </a>
       <div className="mt-4 px-5 pb-5">
         <a href="#">
-          <h5 className="text-xl tracking-tight text-slate-900">{product?.name?.length>10? product.name.slice(0,10)+'...':product.name}</h5>
+          <h5 className="text-xl tracking-tight text-slate-900">{product?.name?.length>20? product.name.slice(0,20)+'...':product.name}</h5>
         </a>
         <div className="mt-2 mb-5 flex items-center justify-between">
           <p>

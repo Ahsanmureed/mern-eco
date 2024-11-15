@@ -1,0 +1,6 @@
+{level:"error", message:"Error during user login", timestamp:"2024-11-15T04:08:45.056Z"}
+{level:"error", message:"Error during user login", timestamp:"2024-11-15T04:08:57.792Z"}
+{level:"error", message:"Error during user login", timestamp:"2024-11-15T04:09:42.778Z"}
+{level:"error", message:"Error during user login", timestamp:"2024-11-15T04:09:53.547Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-15T04:12:46.450Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-11-15T04:12:50.991Z"}

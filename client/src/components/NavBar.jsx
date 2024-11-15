@@ -3,20 +3,24 @@ import img from "../assets/logo.png";
 import { IoIosSearch } from "react-icons/io";
 import { FiShoppingCart, FiUser, FiMenu, FiX } from "react-icons/fi";
 import SearchInput from "./SearchInput";
-import { useSelector } from "react-redux";
-import { Link } from "react-router-dom";
-
+import { useDispatch, useSelector } from "react-redux";
+import { Link, useNavigate } from "react-router-dom";
+import {logout} from '../store/userSlice'
 const NavBar = () => {
+  const navigate = useNavigate()
+  const dispatch = useDispatch()
   const user = useSelector((state) => state.user.user);
   const cartItems = useSelector((state) => state.cart.items); 
   const [searchOpen, setSearchOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
-  // Toggle menu visibility
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
   };
-
+const handleLogout = ()=>{
+ dispatch(logout());
+ navigate('/login')
+}
   return (
     <nav className="flex items-center justify-between px-4 md:px-8 lg:px-14 fixed top-0 z-50 bg-gray-200 w-full py-4 h-[70px] shadow-md">
       <Link to="/" className="flex items-center">
@@ -29,6 +33,7 @@ const NavBar = () => {
         <li><Link to="/shop">Shop</Link></li>
         <li><Link to="/blog">Blog</Link></li>
         <li><Link to="/contact">Contact</Link></li>
+        {user?  <li className=" cursor-pointer" onClick={handleLogout} >Logout</li>:''}
       </ul>
 
       <ul className="flex items-center gap-4 text-2xl">

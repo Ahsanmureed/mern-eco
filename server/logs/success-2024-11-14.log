@@ -420,3 +420,22 @@
 {level:"warn", message:"Token verification failed", timestamp:"2024-11-14T15:53:37.061Z"}
 {level:"info", message:"User logged in successfully", timestamp:"2024-11-14T15:53:38.687Z"}
 {level:"info", message:"Review fetched successfully", timestamp:"2024-11-14T15:53:44.310Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-11-14T16:19:32.012Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-11-14T16:19:33.657Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-11-14T16:19:37.351Z"}
+{level:"info", message:"Review fetched successfully", timestamp:"2024-11-14T16:19:42.467Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-11-14T16:19:47.411Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-11-14T16:19:55.194Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-11-14T16:19:55.257Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-11-14T16:20:12.346Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-11-14T16:20:14.209Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-11-14T16:20:14.259Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-11-14T16:26:42.551Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-11-14T16:28:31.042Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-11-14T16:28:54.991Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-11-14T16:32:27.299Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-11-14T16:33:52.661Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-11-14T16:37:15.496Z"}
+{level:"info", message:"User logged in successfully", timestamp:"2024-11-14T16:37:34.519Z"}
+{level:"info", message:"Password reset email sent", timestamp:"2024-11-14T16:38:15.502Z"}
+{level:"info", message:"Token verified successfully", timestamp:"2024-11-14T16:38:36.869Z"}

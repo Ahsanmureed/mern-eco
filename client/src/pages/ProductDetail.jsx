@@ -55,7 +55,7 @@ const ProductDetail = () => {
     <meta name="description" content={product?.description || 'No description available for this product.'} />
 </Helmet>
 
-                <div className=" px-4 md:px-8 lg:px-20 pt-[90px]   lg:pt-[120px]  py-10">
+                <div className=" px-10 md:px-8 lg:px-20 pt-[90px]   lg:pt-[120px]  py-10">
                     <div className="flex flex-col md:flex-row  ">
                         {/* Main Image Section */}
                         <div className='flex md:w-[50vw] flex-col mb-6'>
