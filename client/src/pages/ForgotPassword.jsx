@@ -3,11 +3,7 @@ import logo from '../assets/logo.png';
 import { useDispatch } from 'react-redux';
 import { forgotPassword } from '../store/userSlice';
 import toast from 'react-hot-toast';
-
-const Loader = () => (
-    <div className="loader"></div>
-);
-
+import ButtonLoader from '../components/ButtonLoader';
 const ForgotPassword = () => {
     const dispatch = useDispatch();
     const [error, setError] = useState('');
@@ -73,7 +69,7 @@ const ForgotPassword = () => {
                             className="flex w-full justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                         >
                             {loading ? (
-                                <Loader />
+                                <ButtonLoader />
                             ) : (
                                 'Reset Password'
                             )}

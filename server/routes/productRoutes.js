@@ -1,14 +1,15 @@
 import express from 'express'
-import { allProductController, createProductController, deleteProductController, productPaginationController, singleProductController, updateProductController, userProductController } from '../controller/productController.js';
+import { allProductController, createProductController, deleteProductController, fetchProductsBySubCategoryController, productPaginationController, singleProductController, updateProductController, userProductController } from '../controller/productController.js';
 import upload from '../config/multerConfig.js';
 import {verifyToken} from '../middlewares/verifyToken.js';
 
-const prodcustRouter = express.Router();
-prodcustRouter.post('/create/product',verifyToken, upload.array('images', 5),createProductController)
-prodcustRouter.get('/:slug',singleProductController)
-prodcustRouter.get('/user/:id',userProductController)
-prodcustRouter.delete('/:id',deleteProductController)
-prodcustRouter.put('/:id',upload.array('images', 5),updateProductController)
-prodcustRouter.get('/products',allProductController)
-prodcustRouter.get('/product/pagination',productPaginationController)
-export default prodcustRouter
+const productRouter = express.Router();
+productRouter.post('/create/product',verifyToken, upload.array('images', 5),createProductController)
+productRouter.get('/:slug',singleProductController)
+productRouter.get('/user/:id',userProductController)
+productRouter.delete('/:id',deleteProductController)
+productRouter.put('/:id',upload.array('images', 5),updateProductController)
+productRouter.get('/products',allProductController)
+productRouter.get('/product/pagination',productPaginationController)
+productRouter.get('/products/:subCategoryId',fetchProductsBySubCategoryController)
+export default productRouter

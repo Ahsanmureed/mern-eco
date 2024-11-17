@@ -4,3 +4,73 @@
 {level:"error", message:"Error during user login", timestamp:"2024-11-15T04:09:53.547Z"}
 {level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-11-15T04:12:46.450Z"}
 {level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-11-15T04:12:50.991Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:16:45.965Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:16:50.967Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:16:58.196Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:17:11.739Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:32:27.947Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:34:49.879Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:35:13.401Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:37:56.371Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:38:09.994Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:38:15.137Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:39:44.486Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:44:23.032Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:50:37.951Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:52:15.231Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:56:37.939Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:56:42.147Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T06:57:04.000Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:00:55.487Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:01:30.666Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:01:31.779Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:04:51.062Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:05:14.668Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:06:29.030Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:13:18.709Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:14:50.088Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:14:54.613Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:15:08.146Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:17:55.504Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:17:59.842Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:18:30.035Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:19:41.945Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:21:54.227Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:33:19.023Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:35:27.151Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T07:48:42.219Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-11-15T07:49:49.540Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-11-15T12:13:21.860Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:00.493Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:01.917Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:02.412Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:02.942Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:03.752Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:04.256Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:04.460Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:04.635Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:04.831Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:05.016Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:05.190Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:05.375Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:05.583Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:05.716Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:05.901Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:06.066Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:06.260Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:06.436Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:06.591Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:06.767Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:06.932Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:07.166Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:17.377Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:17.921Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:22.037Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:26:22.508Z"}
+{level:"warn", message:"Username already registered", timestamp:"2024-11-15T13:27:28.194Z"}
+{level:"warn", message:"Email already registered", timestamp:"2024-11-15T13:27:35.036Z"}
+{level:"warn", message:"Password validation failed: Password must be at least 8 characters long, Password must contain at least one number, Password must contain at least one special character", timestamp:"2024-11-15T13:27:43.388Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-11-15T13:28:07.733Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:29:37.660Z"}
+{level:"warn", message:"Registration attempt without email", timestamp:"2024-11-15T13:30:56.566Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2024-11-15T13:31:03.725Z"}

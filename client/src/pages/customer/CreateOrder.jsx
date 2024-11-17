@@ -14,6 +14,8 @@ const CreateOrder = () => {
   const [orderPlaced,setOrderPlaced]= useState(false)
   const total_amount = items?.reduce((acc, item) => acc + item.price * item.quantity, 0);
   
+  
+  
   const [order, setOrder] = useState({
     products: items.map((item) => ({
       product_id: item._id,
@@ -36,7 +38,8 @@ const CreateOrder = () => {
     },
     billing_type: 'COD',
   });
-
+ console.log(order.total_amount);
+ 
   const handleChange = (e, field, isAddress = false, addressType = '') => {
     const { name, value } = e.target;
 

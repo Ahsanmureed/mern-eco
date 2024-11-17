@@ -4,10 +4,12 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { clearError, registerUser } from '../store/userSlice';
 import toast from 'react-hot-toast';
+import ButtonLoader from '../components/ButtonLoader';
 
 const Register = () => {
     const dispatch = useDispatch();
     const navigate = useNavigate();
+    const [loading, setLoading] = useState(false)
     const [values, setValues] = useState({
         username: '',
         email: '',
@@ -22,13 +24,14 @@ const Register = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         setError(''); 
-
+        setLoading(true)
         const action = await dispatch(registerUser(values));
         if (registerUser.fulfilled.match(action)) {
+            setLoading(false)
           toast.success(action.payload)
             navigate('/login');            
         } else {
-            
+            setLoading(false)
             setError(action.error.message);
         }
     };
@@ -108,7 +111,7 @@ const Register = () => {
                                 type="submit"
                                 className="flex w-full justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                             >
-                                Register
+                                {loading?<ButtonLoader/>:'Register'}
                             </button>
                         </div>
                     </form>

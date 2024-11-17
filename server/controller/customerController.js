@@ -26,7 +26,7 @@ const customerRegisterController = async (req, res, next) => {
     const userName = await customerModel.findOne({ username });
     if (userName) {
       logger.warn("Username already registered", { username });
-      return next(new AppError("username is already registered", 409));
+      return next(new AppError("username must be unique", 409));
     }
     
     // Check email
@@ -225,7 +225,7 @@ const customerForgotPassword = async (req, res, next) => {
     await transporter.sendMail(mailOptions);
     logger.info("Password reset email sent", { email });
     
-    return res.json({ message: "Email has been sent to your Gmail" });
+    return res.json({ message: "Reset link sent! Check your inbox" });
   } catch (error) {
     logger.error("Error during password reset process", { error });
     return next(new AppError("Something went wrong, please try again later", 500));

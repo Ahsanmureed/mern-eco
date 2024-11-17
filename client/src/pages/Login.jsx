@@ -1,18 +1,27 @@
 import React, { useEffect, useState } from 'react';
 import logo from '../assets/logo.png';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { loginUser, clearError } from '../store/userSlice';
 import toast from 'react-hot-toast';
+import ButtonLoader from '../components/ButtonLoader';
 
 const Login = () => {
     const dispatch = useDispatch();
     const error = useSelector((state) => state.user.error);
     const navigate = useNavigate();
+    const location = useLocation(); 
+    const [loading, setLoading] = useState(false);
     const [values, setValues] = useState({
         email: '',
-        password: ''
+        password: '',
     });
+
+    const from = location.state?.from || '/';
+
+    useEffect(() => {
+        dispatch(clearError());
+    }, [dispatch]);
 
     const handleChange = (e) => {
         setValues({ ...values, [e.target.name]: e.target.value });
@@ -20,19 +29,20 @@ const Login = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        const action = await dispatch(loginUser(values));
-        if (loginUser.fulfilled.match(action)) {
-            toast.success(action.payload.message)
-            navigate('/');
+        setLoading(true);
+        try {
+            const action = await dispatch(loginUser(values));
+            if (loginUser.fulfilled.match(action)) {
+                setLoading(false);
+                toast.success(action.payload.message);
+                navigate(from);
+            } else {
+                setLoading(false);
+            }
+        } catch (error) {
+            setLoading(false);
         }
     };
-
-    useEffect(() => {
-       
-        return () => {
-            dispatch(clearError());
-        };
-    }, [dispatch]);
 
     return (
         <div className="flex min-h-full flex-1 flex-col justify-center pt-[120px] px-6 py-12 lg:px-8">
@@ -94,19 +104,20 @@ const Login = () => {
 
                     <div>
                         <button
+                        disabled={loading}
                             type="submit"
                             className="flex w-full justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                         >
-                            Sign in
+                          {loading ? <ButtonLoader/>:'Sign in'}
                         </button>
                     </div>
                 </form>
                 <p className="mt-10 text-center text-sm text-gray-500">
-                Doesn't have an account? {''}
-                        <Link to={'/register'} className="font-semibold leading-6 text-indigo-600 hover:text-indigo-500">
-                            Register here
-                        </Link>
-                    </p>
+                    Doesn't have an account?{' '}
+                    <Link to={'/register'} className="font-semibold leading-6 text-indigo-600 hover:text-indigo-500">
+                        Register here
+                    </Link>
+                </p>
             </div>
         </div>
     );

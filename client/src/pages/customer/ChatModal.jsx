@@ -2,12 +2,12 @@ import React, { useEffect, useState, useRef } from 'react';
 import { useSelector } from 'react-redux';
 import socket from '../../components/socket';
 import axios from 'axios';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { toast } from 'react-hot-toast';
 
-const ChatModal = ({ isOpen, onClose, recipientId: initialRecipientId, recipientName: initialRecipientName }) => {
+const ChatModal = ({ isOpen, onClose, recipientId: initialRecipientId, recipientName: initialRecipientName,slug }) => {
   const user = useSelector((state) => state.user.user);
-
+const navigate= useNavigate()
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
   const [recipientId, setRecipientId] = useState(initialRecipientId);
@@ -136,7 +136,6 @@ const ChatModal = ({ isOpen, onClose, recipientId: initialRecipientId, recipient
     <div className="fixed inset-0 flex items-end justify-end z-50 bg-black bg-opacity-50">
       <div className="bg-white rounded-lg w-full sm:w-[50vw] h-[100vh] sm:h-[65vh] flex shadow-lg flex-col sm:flex-row">
         
-        {/* Left Sidebar (Hidden on Mobile/Tablet) */}
         <div className="w-full sm:w-[30%] p-4 overflow-y-auto max-h-[60vh] sm:max-h-none sm:block hidden">
           {user && <h3 className="text-lg font-bold text-center sm:text-left">Previous Chats</h3>}
           {user && loading ? (
@@ -197,9 +196,9 @@ const ChatModal = ({ isOpen, onClose, recipientId: initialRecipientId, recipient
               </div>
             </>
           ) : (
-            <Link to="/login" className="bg-blue-600 p-3 rounded-md text-white text-[16px] sm:text-[20px] font-semibold mx-auto my-auto">
+            <button onClick={()=> navigate('/login',{ state: { from: `/product/${slug}` } })} className="bg-blue-600 p-3 rounded-md text-white text-[16px] sm:text-[20px] font-semibold my-auto  flex mx-auto ">
               Please login first
-            </Link>
+            </button>
           )}
         </div>
       </div>

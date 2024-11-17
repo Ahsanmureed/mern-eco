@@ -1,3 +1,4 @@
+import mongoose from "mongoose";
 import productModel from "../models/productSchema.js";
 import shopModel from "../models/shopSchema.js";
 import { AppError } from "../utils/errorHandler.js";
@@ -212,6 +213,18 @@ const userProductController = async(req,res,next)=>{
   return next(new AppError("Internal server error", 500));
  }
 }
+const fetchProductsBySubCategoryController = async(req,res)=>{
+  const {subCategoryId}= req.params;
+  const id = new mongoose.Types.ObjectId(subCategoryId)
+  try {
+    const data= await productModel.aggregate([{
+      $match:{subCategory:id}
+    }])
+    res.json({data})
+  } catch (error) {
+    
+  }
+}
 export { 
   createProductController, 
   productPaginationController, 
@@ -219,5 +232,6 @@ export {
   deleteProductController, 
   updateProductController, 
   allProductController ,
-  userProductController
+  userProductController,
+  fetchProductsBySubCategoryController
 };

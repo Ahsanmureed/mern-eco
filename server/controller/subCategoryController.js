@@ -1,11 +1,13 @@
 import subcategoryModel from '../models/subCategory.js';
 import categoryModel from '../models/categorySchema.js';
+import mongoose from 'mongoose';
  const createSubCategoryController = async (req, res) => {
+  const image = req.file ? req.file.path:null;
   try {
     const { name, mainCategoryId } = req.body;
     if(!name){
       return res.status(401).json({
-        message:'name is required'
+        message:'Name is required'
       })
     }
     if(!mainCategoryId){
@@ -13,6 +15,11 @@ import categoryModel from '../models/categorySchema.js';
         message:'Main Category is required'
       })
     }
+       if(!image ){
+        return res.status(401).json({
+          message:'Photo is required'
+        })
+      }
  //validation
  const checkCatName = await subcategoryModel.findOne({name});
  if(checkCatName){
@@ -27,7 +34,7 @@ import categoryModel from '../models/categorySchema.js';
       return res.status(400).json({ message: 'Main category not found' });
     }
 
-    const newSubcategory = new subcategoryModel({ name, mainCategoryId });
+    const newSubcategory = new subcategoryModel({ name, mainCategoryId,image });
     await newSubcategory.save();
     res.status(201).json({ message: 'Subcategory created successfully', subcategory: newSubcategory });
   } catch (error) {
@@ -91,4 +98,19 @@ import categoryModel from '../models/categorySchema.js';
        ;
     }
 };
-export {updateSubCategoryController,deleteSubCategoryController,createSubCategoryController,fetchAllSubCategoriesController,fetchSubCategoryByIdController}
+const fetchSubCategoriesByMainController = async(req,res)=>{
+  const {mainCategoryId} =req.params;
+  const id = new mongoose.Types.ObjectId(mainCategoryId);
+  console.log(mainCategoryId);
+  
+  try {
+     
+      const data = await subcategoryModel.aggregate([
+        {$match:{mainCategoryId:id}}
+      ])
+    return  res.json({data:data});
+  } catch (error) {
+    
+  }
+}
+export {updateSubCategoryController,deleteSubCategoryController,createSubCategoryController,fetchAllSubCategoriesController,fetchSubCategoryByIdController,fetchSubCategoriesByMainController}

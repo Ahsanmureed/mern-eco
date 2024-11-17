@@ -18,6 +18,9 @@ import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword";
 import { Toaster } from 'react-hot-toast';
 import CreateOrder from "./pages/customer/CreateOrder";
+import Categories from "./components/Categories";
+import SubCategories from "./pages/SubCategories";
+import Products from "./pages/Products";
 
 const App = () => {
   const user = useSelector((state) => state.user.user);
@@ -45,6 +48,8 @@ const App = () => {
           <Route path="/search" element={<SearchResult />} />
           <Route path="/product/:slug" element={<ProductDetail />} />
           <Route path="/cart" element={<ShoppingCart />} />
+          <Route path="/subcategory/:id" element={<SubCategories />} />
+          <Route path="/products/:id" element={<Products />} />
           
           {!user ? (
             <>

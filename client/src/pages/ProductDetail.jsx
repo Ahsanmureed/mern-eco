@@ -119,7 +119,7 @@ const ProductDetail = () => {
                 </div>
     
                 <div className="bg-gray-50 py-10">
-                    <div className="container mx-auto px-4">
+                    <div className=" mx-auto px-4">
                         <Review productId={product?._id} />
                     </div>
                 </div>
@@ -130,6 +130,7 @@ const ProductDetail = () => {
                     onClose={() => setChatOpen(false)}
                     recipientId={product.shopDetails?.userId}
                     recipientName={product.shopDetails?.name}
+                    slug={slug}
                 /></>):<><h1 className=' mt-[90px] text-2xl font-semibold text-center'>Product Not Found</h1></>
             }
         </div>

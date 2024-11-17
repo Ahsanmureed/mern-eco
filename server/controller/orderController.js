@@ -6,7 +6,7 @@ import masterOrderModel from "../models/masterOrderSchema.js";
 import logger from "../utils/logger.js";
 import shopModel from "../models/shopSchema.js";
 const createOrderController = async (req, res, next) => {
-  const { products, billing_address, shipment_address, billing_type } = req.body;
+  const { products, billing_address, shipment_address, billing_type,total_amount } = req.body;
 
   if (!products || products.length === 0 || !Array.isArray(products)) {
       return res.status(400).res({message:"Please fill the required fields."});
@@ -68,7 +68,7 @@ const createOrderController = async (req, res, next) => {
   const savedMasterOrder = new masterOrderModel({
       customer_id: req.userId,
       order_references: orderReferences,
-      total_amount: 1500,
+      total_amount: total_amount,
       shipment_address: shipment_address,
       billing_address: billing_address,
       billing_type: billing_type,

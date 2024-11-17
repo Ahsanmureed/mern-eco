@@ -1,8 +1,24 @@
 import categoryModel from "../models/categorySchema.js";
 
  const createCategoryController = async (req, res) => {
+
+  const image = req.file  ? req.file.path : null;
+
+  const { name } = req.body;
   try {
-    const { name } = req.body;
+
+    //validation
+    if(!name ){
+      return res.status(401).json({
+        message:'Name is required'
+      })
+    }
+    if(!image ){
+      return res.status(401).json({
+        message:'Photo is required'
+      })
+    }
+ 
     //validation
     const checkCat = await categoryModel.findOne({name});
     if(checkCat){
@@ -10,7 +26,7 @@ import categoryModel from "../models/categorySchema.js";
         message:'Category already exist'
       })
     }
-    const newCategory = new categoryModel({ name });
+    const newCategory = new categoryModel({ name,image });
     await newCategory.save();
     res.status(201).json({ message: 'Category created successfully', category: newCategory });
   } catch (error) {

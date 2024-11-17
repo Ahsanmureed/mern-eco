@@ -243,7 +243,7 @@ const forgotPassword = async (req, res, next) => {
     await transporter.sendMail(mailOptions);
     logger.info("Password reset email sent", { email });
 
-    return res.json({ message: "Email has been sent to your Gmail" });
+    return res.json({ message: "Reset link sent! Check your inbox" });
   } catch (error) {
     logger.error("Error during password reset", { error });
     return next(new AppError("Something went wrong, please try again later", 500));

@@ -1,8 +1,10 @@
 import React from "react";
 import bannerBg from "../assets/banner-bg.jpg";
+import Categories from "../components/Categories";
 
 const Home = () => {
   return (
+   <>
     <div
       className=" height bg-cover bg-top flex items-center mt-[70px]" 
       style={{ backgroundImage: `url(${bannerBg})` }}
@@ -21,6 +23,10 @@ const Home = () => {
         </div>
       </div>
     </div>
+
+
+    <Categories/>
+   </>
   );
 };
 
