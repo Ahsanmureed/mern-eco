@@ -15,10 +15,7 @@ const app = express();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Create the server
 const server = createServer(app);
-
-// Setup Socket.io
 const io = socketSetup(server);
 
 // Middlewares

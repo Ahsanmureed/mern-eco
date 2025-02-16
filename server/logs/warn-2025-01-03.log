@@ -1,0 +1,29 @@
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T07:11:06.928Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T07:38:22.414Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T07:38:22.431Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T08:54:05.069Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T09:19:00.068Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T09:19:24.990Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T09:24:06.808Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T09:31:36.322Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T09:31:36.330Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T10:33:18.273Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T10:33:22.740Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T10:33:22.753Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T10:33:57.887Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T11:42:35.441Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T11:42:35.458Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T13:34:59.471Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T13:34:59.497Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T13:35:01.784Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T16:07:22.321Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T16:07:22.337Z"}
+{level:"warn", message:"Incorrect email during login attempt", timestamp:"2025-01-03T16:07:26.906Z"}
+{level:"warn", message:"Incorrect email during login attempt", timestamp:"2025-01-03T16:07:28.891Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T16:07:50.054Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T17:04:16.786Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T17:04:16.795Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T17:09:22.063Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T17:22:06.616Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-03T17:40:34.102Z"}
+{level:"warn", message:"Login attempt with incorrect email", timestamp:"2025-01-03T17:41:20.768Z"}

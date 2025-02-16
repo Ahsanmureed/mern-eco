@@ -22,7 +22,6 @@ const storage = new CloudinaryStorage({
     folder: 'uploads/images',
     allowed_formats: ['jpg', 'png', 'jpeg'],
     public_id: (req, file) => {
-      // Use a combination of timestamp and a random string for uniqueness
       return `${Date.now()}_${generateRandomString(8)}${path.extname(file.originalname)}`;
     },
   },

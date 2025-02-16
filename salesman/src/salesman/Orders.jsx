@@ -2,13 +2,13 @@ import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchOrders, selectOrders, selectOrdersLoading, selectOrdersError, updateOrderStatus } from '../store/orderSlice';
 import SideBar from './SideBar';
+import Loader from '../components/Loader';
 
 const Orders = () => {
     const dispatch = useDispatch();
     const orders = useSelector(selectOrders);
     const loading = useSelector(selectOrdersLoading);
     const error = useSelector(selectOrdersError);
-    console.log(orders[0]);
     
     useEffect(() => {
         dispatch(fetchOrders());
@@ -20,13 +20,14 @@ const Orders = () => {
     };
 
     if (loading) {
-        return <div className="text-center py-5">Loading...</div>;
+
+        return <div> <SideBar /> <Loader/></div>;
     }
 
     if (error) {
         return <p className="text-red-500 text-center">{error}</p>;
     }
- console.log(orders[0]);
+
  
     return (
         <div>

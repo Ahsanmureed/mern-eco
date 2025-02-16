@@ -5,19 +5,79 @@ import customerModel from "../models/customerSchema.js";
 import masterOrderModel from "../models/masterOrderSchema.js";
 import logger from "../utils/logger.js";
 import shopModel from "../models/shopSchema.js";
+import stripe from "../config/stripe.js";
+const YOUR_DOMAIN= 'http://localhost:5173'
+const paymentController =async(req,res,next)=>{
+  const {cartItems,billing_details,billing_type}= req.body;
+  if(!billing_details){
+    return res.status(400).json({
+      success:false,
+      message:'Address is required'
+    })
+  }
+  
+  try {
+    const params = {
+      submit_type:'pay',
+      mode:'payment',
+      payment_method_types:['card'],
+      billing_address_collection:'auto',
+      shipping_options:[
+        {
+          shipping_rate:'shr_1QlOw7AwncZRu9rkiB7pNrT3'
+        }
+      ],
+      customer_email:req.user.email,
+      metadata:{
+        userId:req.user._id
+      },
+      line_items:cartItems.map((item)=>{        
+        return{
+          price_data:{
+            currency:'usd',
+            product_data:{
+              name:item.name,
+              images:item.images,
+              metadata:{
+                productId:item.productId
+                      
+              }
+              
+            },
+            unit_amount:item.price
+          },
+          adjustable_quantity:{
+            enabled:true,
+            minimum:1,
+          },
+          quantity:item.quantity
+        }
+      }),
+      success_url: `${YOUR_DOMAIN}/orders`,
+      cancel_url: `${YOUR_DOMAIN}/canceled`,
+    }
+    if (billing_details && billing_type) {
+      params.metadata.billing_details = JSON.stringify(billing_details);
+      params.metadata.billing_type = JSON.stringify(billing_type);
+    }
+    
+    const session = await stripe.checkout.sessions.create(params);
+    res.status(200).json(session)
+  } catch (error) {
+    console.log(error);
+    
+  }
+}
 const createOrderController = async (req, res, next) => {
-  const { products, billing_address, shipment_address, billing_type,total_amount } = req.body;
+  const { products, address, billing_type,total_amount } = req.body;
 
   if (!products || products.length === 0 || !Array.isArray(products)) {
       return res.status(400).res({message:"Please fill the required fields."});
   }
 
-  const requiredAddressFields = ['street', 'city', 'state', 'zip', 'phone_number'];
-  const missingShipmentAddressFields = requiredAddressFields.filter(field => !shipment_address[field]);
-  const missingBillingAddressFields = requiredAddressFields.filter(field => !billing_address[field]);
 
-  if (missingShipmentAddressFields.length > 0 || missingBillingAddressFields.length > 0) {
-      return res.status(400).json({message:"Please fill the required fields."});
+  if (!address ) {
+      return res.status(400).json({message:"Address is required."});
   }
 
   const ordersByShop = {};
@@ -33,8 +93,7 @@ const createOrderController = async (req, res, next) => {
               products: [],
               total_amount: 0,
               shop_id: product.shopId,
-              shipment_address: shipment_address, 
-              billing_address: billing_address,    
+              address: address, 
               billing_type: billing_type,          
           };
       }
@@ -51,12 +110,11 @@ const createOrderController = async (req, res, next) => {
   for (const shopId in ordersByShop) {
       const orderData = ordersByShop[shopId];
       const newOrder = new orderModel({
-          customer_id: req.userId,
+          customer_id: req.user._id,
           products: orderData.products,
           total_amount: orderData.total_amount,
           shop_id: shopId,
-          shipment_address: orderData.shipment_address,
-          billing_address: orderData.billing_address,
+          address: orderData.address,
           billing_type: orderData.billing_type,
           status: "in_progress",
       });
@@ -66,11 +124,10 @@ const createOrderController = async (req, res, next) => {
   }
 
   const savedMasterOrder = new masterOrderModel({
-      customer_id: req.userId,
+      customer_id: req.user._id,
       order_references: orderReferences,
       total_amount: total_amount,
-      shipment_address: shipment_address,
-      billing_address: billing_address,
+      address: address,
       billing_type: billing_type,
       status: "in_progress",
   });
@@ -196,7 +253,7 @@ const updateOrderStatusController = async (req, res) => {
       logger.warn("Order not found for update", { orderId: id });
       return res.status(404).json({ message: "Order not found" });
     }
-
+   
     const previousStatus = order.status;
     order.status = status;
     await order.save();
@@ -242,7 +299,6 @@ const updateOrderStatusController = async (req, res) => {
           (order) => order.status === "delivered"
         );
         const anyRejected = orders.some((o) => o.status === "rejected");
-   console.log(allDelivered);
    
         if (allDelivered) {
           masterOrder.status = "delivered";
@@ -271,7 +327,7 @@ const updateOrderStatusController = async (req, res) => {
 };
 
 const fetchOrderWithShopId = async (req, res) => {
-  const  shopId  = await shopModel.find({userId:req.userId})
+  const  shopId  = await shopModel.find({userId:req.user._id})
   
   
   const shopObjectId = new mongoose.Types.ObjectId(shopId[0]?._id);
@@ -288,6 +344,9 @@ const fetchOrderWithShopId = async (req, res) => {
           as: "productsDetails",
         },
       },
+      {
+        $sort:{createdAt:-1}
+      }
     ]);
 
     logger.info("Fetched orders for shop", { shopId });
@@ -297,6 +356,110 @@ const fetchOrderWithShopId = async (req, res) => {
     res.status(500).json({ message: "Error fetching orders." });
   }
 };
+const getLineItems= async(lineItems)=>{
+      let productItems=[];
+      if(lineItems?.data?.length){
+        for(const item of lineItems?.data){
+         const product= await stripe.products.retrieve(item.price.product);
+         
+         const productData= {
+          productId:product.metadata.productId,
+          name:product.name,
+          price:item.price.unit_amount/100,
+          quantity:item.quantity,
+          image:product.images,
+
+         }
+         productItems.push(productData)
+        }
+      }
+      return productItems
+}
+const webhookController =async(req,res)=>{
+  const sig = req.headers['stripe-signature'];
+  const payLoadString= JSON.stringify(req.body)
+  const header =stripe.webhooks.generateTestHeaderString({
+    payload:payLoadString,
+    secret:process.env.STRIPE_WEBHOOK_SECRET_KEY
+  })
+  let event;
+  try {
+    event=stripe.webhooks.constructEvent(payLoadString,header,process.env.STRIPE_WEBHOOK_SECRET_KEY)
+  } catch (error) {
+    response.status(400).send(`Webhook Error: ${err.message}`);
+  }
+
+  switch (event.type) {
+    case 'checkout.session.completed':
+      const session = event.data.object;
+      const lineItems = await stripe.checkout.sessions.listLineItems(session.id);
+      const productDetails= await getLineItems(lineItems)  
+      
+      const ordersByShop = {};
+  for (const { productId, quantity } of productDetails) {
+      const product = await productModel.findById(productId);
+      if (!product) {
+          logger.warn("Product not found", { productId });
+          return res.status(404).json({message:`Product not found.`});
+      }
+
+      if (!ordersByShop[product.shopId]) {
+          ordersByShop[product.shopId] = {
+              products: [],
+              total_amount: 0,
+              shop_id: product.shopId        
+          };
+      }
+
+      ordersByShop[product.shopId].products.push({
+        product_id: productId,
+        product_quantity: quantity,
+      });
+
+      ordersByShop[product.shopId].total_amount += product.price * quantity;
+  }
+
+  const orderReferences = [];
+  for (const shopId in ordersByShop) {
+      const orderData = ordersByShop[shopId];
+      const newOrder = new orderModel({
+          customer_id: session.metadata?.userId,
+          products: orderData.products,
+          total_amount: orderData.total_amount,
+          shop_id: shopId,
+          address: JSON.parse(session.metadata.billing_details),
+          billing_type: JSON.parse(session.metadata.billing_type),
+          status: "in_progress",
+      });
+      const saveOrder = await newOrder.save();
+      orderReferences.push(saveOrder._id);
+      logger.info("Order created", { orderId: saveOrder._id, shopId });
+  }
+
+  const savedMasterOrder = new masterOrderModel({
+      customer_id: session.metadata?.userId,
+      order_references: orderReferences,
+      address: JSON.parse(session.metadata.billing_details),
+      billing_type: JSON.parse(session.metadata.billing_type),
+      total_amount: session.amount_total/100,
+      status: "in_progress",
+  });
+console.log('billing', typeof JSON.parse(session.metadata.billing_details));
+
+  await savedMasterOrder.save();
+  await orderModel.updateMany(
+      { _id: { $in: orderReferences } },
+      { master_order_id: savedMasterOrder._id }
+  );    
+      break;
+    case 'payment_method.attached':
+      const paymentMethod = event.data.object;
+      console.log('PaymentMethod was attached to a Customer!');
+      break;
+    default:
+      console.log(`Unhandled event type ${event.type}`);
+  }
+}
 export {
   createOrderController,
   singleOrderDetailController,
@@ -304,4 +467,6 @@ export {
   userOrderController,
   updateOrderStatusController,
   fetchOrderWithShopId,
+  paymentController,
+  webhookController
 };

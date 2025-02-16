@@ -1,0 +1,26 @@
+{level:"warn", message:"Authorization header is missing", timestamp:"2025-01-30T08:53:53.911Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T08:54:52.891Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T08:55:03.288Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T08:55:25.429Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T08:56:34.950Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T08:56:37.826Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T09:06:05.488Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T09:06:21.581Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T09:06:25.341Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:34:55.020Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:35:05.633Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:36:24.938Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:36:57.507Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:37:28.346Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:37:47.299Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:38:08.646Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:38:21.266Z"}
+{level:"warn", message:"State is required", timestamp:"2025-01-30T10:38:32.652Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:39:20.668Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:39:59.746Z"}
+{level:"warn", message:"State is required", timestamp:"2025-01-30T10:41:19.056Z"}
+{level:"warn", message:"Street is required", timestamp:"2025-01-30T10:41:26.674Z"}
+{level:"warn", message:"State is required", timestamp:"2025-01-30T10:42:30.351Z"}
+{level:"warn", message:"State is required", timestamp:"2025-01-30T10:47:03.145Z"}
+{level:"warn", message:"Country is required", timestamp:"2025-01-30T12:21:21.640Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2025-01-30T13:40:08.602Z"}

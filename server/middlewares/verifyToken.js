@@ -24,8 +24,8 @@ const verifyToken = (req, res, next) => {
       return res.status(403).json({ message: 'Unauthorized person' });
     }
 
-    req.userId = data._id;
-    logger.info("Token verified successfully", { userId: req.userId });
+    req.user = data;
+    logger.info("Token verified successfully", { user: req.user });
 
     next();
   });

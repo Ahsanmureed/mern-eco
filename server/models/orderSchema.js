@@ -5,78 +5,58 @@ import mongoose from "mongoose";
 const orderSchema = new mongoose.Schema({
   customer_id:{
     type:mongoose.Schema.Types.ObjectId,
-    required:true
+    // required:true
   },
   products:[{
     product_id:{
       type:mongoose.Schema.Types.ObjectId,
-      required:true,
+      // required:true,
     },
     product_quantity:{
       type:Number,
-      required:true,
+      // required:true,
       min:1
     }
   }],
   total_amount: {
     type: Number,
-    required: true,
+    // required: true,
     min: 0,
   },
   shop_id:{
     type:mongoose.Schema.Types.ObjectId,
-    required:true,
+    // required:true,
   },
-  shipment_address: {
+  address: {
     street: {
       type: String,
-      required: true,
+      // required: true,
     },
     city: {
       type: String,
-      required: true,
+      // required: true,
     },
     state: {
       type: String,
-      required: true,
+      // required: true,
     },
     zip: {
       type: String,
-      required: true,
+      // required: true,
+    },
+    country:{
+      type:String,
+      // required: true,
     },
     phone_number: {
       type: String,
-      required: true,
+      // required: true,
     },
   }, 
-  billing_address: {
-   
-      street: {
-        type: String,
-        required: true,
-      },
-      city: {
-        type: String,
-        required: true,
-      },
-      state: {
-        type: String,
-        required: true,
-      },
-      zip: {
-        type: String,
-        required: true,
-      },
-      phone_number: {
-        type: String,
-        required: true,
-      },
-    
-  },
   billing_type: {
     type: String,
     enum: ['COD', 'CardPayment'], 
-    required: true,
+    // required: true,
   },
   status:{
     type:String,

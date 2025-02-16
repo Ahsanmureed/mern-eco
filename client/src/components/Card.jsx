@@ -1,6 +1,6 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
-import {useNavigate } from 'react-router-dom'
+import {Link, useNavigate } from 'react-router-dom'
 import { addToCart } from '../store/cartSlice';
 import toast from 'react-hot-toast';
 const Card = ({ product }) => {
@@ -13,30 +13,33 @@ const Card = ({ product }) => {
 
 const navigate =useNavigate()
   return (
-    <div className="group my-10 flex w-full max-w-xs flex-col overflow-hidden border border-gray-100 bg-white shadow-md">
-      <a className="relative flex h-60 overflow-hidden items-center justify-center" >
-        <img
-        onClick={()=>navigate(`/product/${product?.slug}`)}
-          className="h-full cursor-pointer w-auto object-contain"
-          src={product.images[0]} 
-          alt="product image"
-        />
-      </a>
-      <div className="mt-4 px-5 pb-5">
-        <a href="#">
-          <h5 className="text-xl tracking-tight text-slate-900">{product?.name?.length>20? product.name.slice(0,20)+'...':product.name}</h5>
-        </a>
-        <div className="mt-2 mb-5 flex items-center justify-between">
-          <p>
-            <span className="text-3xl font-bold text-slate-900">${product.price}</span>
-          </p>
-        </div>
-        <button onClick={handleAddToCart} className="flex items-center justify-center bg-gray-900 px-4 py-2.5 rounded-md text-sm text-white transition hover:bg-gray-700">
-         
-          Add to cart
-        </button>
-      </div>
+    <div className="group my-6 flex w-full max-w-xs flex-col overflow-hidden border border-gray-200 rounded-lg bg-white shadow-md transition-transform transform hover:scale-105 hover:shadow-lg">
+  <Link
+    className="relative flex md:h-60 h-52 overflow-hidden items-center justify-center bg-gray-50"
+    to={`/product/${product?.slug}`}
+  >
+    <img
+      className="h-full w-auto object-contain cursor-pointer transition-transform duration-300 group-hover:scale-110"
+      src={product.images[0]}
+      alt={product.name}
+    />
+  </Link>
+  <div className="flex flex-col justify-between flex-1 mt-3 px-4 pb-3">
+    <h5 className="text-md font-medium tracking-tight text-gray-800 truncate">
+      {product?.name}
+    </h5>
+    <div className="mt-2 flex items-center justify-between">
+      <span className="text-xl font-bold text-gray-900 ">${product.price}</span>
     </div>
+    <button
+      onClick={handleAddToCart}
+      className="mt-3 flex items-center justify-center w-full bg-gray-900 text-white text-sm font-medium py-2 rounded-lg transition hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-900 focus:ring-offset-1"
+    >
+      Add to Cart
+    </button>
+  </div>
+</div>
+
   );
 };
 

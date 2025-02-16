@@ -7,7 +7,7 @@ customerRoute.post('/login',customerLoginController);
 customerRoute.post('/register',customerRegisterController);
 customerRoute.get('/customer/:id',singleCustomerController)
 customerRoute.delete('/customer/:id',deleteCustomerController)
-customerRoute.put('/customer/:id',updateCustomerController)
+customerRoute.patch('/customer/:id',verifyToken,updateCustomerController)
 customerRoute.get('/customers',allCustomerController)
 customerRoute.get('/customer/pagination',customerPaginationController)
 customerRoute.post('/customer/forgot',customerForgotPassword)

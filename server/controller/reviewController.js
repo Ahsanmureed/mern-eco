@@ -14,6 +14,9 @@ const createReviewController = async (req, res) => {
       logger.warn("Product not found", { productId });
       return res.status(404).json({ message: 'Product not found.' });
     }
+    if(!comment){
+      return res.status(404).json({ message: 'Comment is required.' });
+    }
 
     const masterOrder = await masterOrderModel.findById(masterorderId);
     if (!masterOrder || masterOrder.status !== 'delivered') {
@@ -21,13 +24,13 @@ const createReviewController = async (req, res) => {
       return res.status(401).json({ message: 'Order is not delivered.' });
     }
 
-    const existingReview = await reviewModel.findOne({ product: productId, customer: req.userId,masterorderId });
+    const existingReview = await reviewModel.findOne({ product: productId, customer: req.user._id,masterorderId });
     if (existingReview) {
-      logger.warn("User has already reviewed this product", { productId, userId: req.userId });
+      logger.warn("User has already reviewed this product", { productId, userId: req.user._id });
       return res.status(400).json({ message: 'You have already reviewed this product.' });
     }
 
-    const review = new reviewModel({ product: productId, customer: req.userId, rating, comment, images,masterorderId });
+    const review = new reviewModel({ product: productId, customer: req.user._id, rating, comment, images,masterorderId });
     await review.save();
 
     product.reviews.push(review._id);
@@ -59,7 +62,7 @@ const reviewByProductIdController = async (req, res) => {
       {
           $unwind: {
               path: '$reviews',
-              preserveNullAndEmptyArrays: true // Keep the product if it has no reviews
+              preserveNullAndEmptyArrays: true 
           }
       },
       {
@@ -73,12 +76,13 @@ const reviewByProductIdController = async (req, res) => {
       {
           $unwind: {
               path: '$customer',
-              preserveNullAndEmptyArrays: true // Keep the review if it has no customer data
+              preserveNullAndEmptyArrays: true 
           }
       },
+      { $sort: { 'reviews.createdAt': -1 } },
       {
           $group: {
-              _id: '$_id', // Group by product ID
+              _id: '$_id', 
               name: { $first: '$name' },
               price: { $first: '$price' },
               quantity: { $first: '$quantity' },
@@ -115,7 +119,8 @@ const reviewByProductIdController = async (req, res) => {
           $project: {
               reviews: { $filter: { input: '$reviews', as: 'review', cond: { $ne: ['$$review', null] } } } 
           }
-      }
+      },
+      {$sort:{createdAt:1}}
   ]);
   
   

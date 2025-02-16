@@ -3,8 +3,7 @@ import ReviewForm from './ReviewForm';
 
 const ReviewPage = ({ productId }) => {
   return (
-    <div className="review-page pt-[80px]">
-      <h1 className="text-2xl mb-4">Submit a Review</h1>
+    <div className="review-page pt-[75px]">
       <ReviewForm productId={productId} />
     </div>
   );

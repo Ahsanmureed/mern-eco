@@ -6,26 +6,26 @@ const createShopController = async (req, res) => {
   const { name } = req.body;
   try {
     if (!name) {
-      logger.warn("Shop creation attempt with missing name", { userId: req.userId });
+      logger.warn("Shop creation attempt with missing name", { userId: req.user._id });
       return res.status(400).json({
         success: false,
         message: 'Please enter the name'
       });
     }
-    const shop = await shopModel.findOne({ userId: req.userId });
+    const shop = await shopModel.findOne({ userId: req.user._id });
 
     if (shop) {
-      logger.warn("User already has a shop", { userId: req.userId });
+      logger.warn("User already has a shop", { userId: req.user._id });
       return res.status(409).json({
         success: false,
         message: 'User already has one shop'
       });
     }
     
-    const newShop = new shopModel({ name, userId: req.userId });
+    const newShop = new shopModel({ name, userId: req.user._id });
     await newShop.save();
 
-    logger.info("Shop created successfully", { shopId: newShop._id, userId: req.userId });
+    logger.info("Shop created successfully", { shopId: newShop._id, userId: req.user._id });
 
     return res.status(201).json({
       success: true,

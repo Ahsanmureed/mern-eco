@@ -6,6 +6,7 @@ import SearchInput from "./SearchInput";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useNavigate } from "react-router-dom";
 import {logout} from '../store/userSlice'
+import { setSocket } from "../store/socketSlice";
 const NavBar = () => {
   const navigate = useNavigate()
   const dispatch = useDispatch()
@@ -13,7 +14,10 @@ const NavBar = () => {
   const cartItems = useSelector((state) => state.cart.items); 
   const [searchOpen, setSearchOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
-
+  const socket = useSelector((state) => state.socket.socket);
+const totalCartItems = cartItems.reduce((acc,item)=>{
+  return  acc+item.quantity
+},0)
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
   };
@@ -43,13 +47,13 @@ const handleLogout = ()=>{
           <FiShoppingCart />
           {cartItems?.length > 0 && (
             <span className="absolute top-[-8px] right-[-10px] bg-red-600 text-white text-xs rounded-full px-1">
-              {cartItems.length}
+              {totalCartItems}
             </span>
           )}
         </Link>
 
         {user ? (
-          <Link to="/dashboard">
+          <Link to="/profile">
             <FiUser />
           </Link>
         ) : (

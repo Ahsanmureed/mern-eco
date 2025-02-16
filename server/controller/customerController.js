@@ -99,7 +99,7 @@ const customerLoginController = async (req, res, next) => {
     const accessToken = jwt.sign(
       { _id: customer._id, email: customer.email },
       process.env.SECRET_KEY,
-      { expiresIn: "1hr" }
+      { expiresIn: "24h" }
     );
     const { password: pass, ...info } = customer._doc;
     logger.info("User logged in successfully", { email,password });
@@ -170,6 +170,38 @@ const deleteCustomerController = async (req, res, next) => {
 };
 
 const updateCustomerController = async (req, res, next) => {
+  const {address} =req.body;
+  
+  const {street,city,zip,state,country,phone_number}=address
+  console.log(street);
+
+  if(!street){
+    logger.warn("Street is required");
+    return next(new AppError("Street is required", 404));
+  }
+  if(!state){
+    logger.warn("State is required",
+    );
+    return next(new AppError("State is required", 404));
+  }
+  if(!zip){
+    logger.warn("Zip Code is required",
+    );
+    return next(new AppError("Zip Code is required", 404));
+  }
+  if(!city){
+    logger.warn("City is required",);
+    return next(new AppError("City is required", 404));
+  }
+  if(!country){
+    logger.warn("Country is required" );
+    return next(new AppError("Country is required", 404));
+  }
+  if(!phone_number){
+    logger.warn("Phone Number is required",
+    );
+    return next(new AppError("Phone Number is required", 404));
+  }
   try {
     const updateUser = await customerModel.findByIdAndUpdate(req.params.id, { $set: req.body }, { new: true });
     if (!updateUser) {
@@ -233,7 +265,7 @@ const customerForgotPassword = async (req, res, next) => {
 };
 const fetchCustomerController = async(req,res)=>{
    try {
-    const customer = await customerModel.findById(req.userId).select('-password');
+    const customer = await customerModel.findById(req.user._id).select('-password');
     if (!customer) {
       return res.status(404).json({ message: 'User not found' });
       logger.warn('User not found');
@@ -246,6 +278,7 @@ const fetchCustomerController = async(req,res)=>{
    }
 
 }
+
 export {
   customerLoginController,
   customerRegisterController,

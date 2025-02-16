@@ -1,0 +1,21 @@
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T06:47:04.351Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T08:10:30.718Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T09:13:50.351Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T09:18:58.048Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T09:18:58.206Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-12-25T09:54:54.562Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-12-25T09:56:02.490Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-12-25T09:56:48.681Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-12-25T09:56:57.504Z"}
+{level:"warn", message:"Product not found", timestamp:"2024-12-25T09:57:03.991Z"}
+{level:"warn", message:"Product creation attempt with missing fields", timestamp:"2024-12-25T09:57:36.729Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T10:14:21.858Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-12-25T10:53:16.198Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-12-25T10:53:19.055Z"}
+{level:"warn", message:"Login attempt with incorrect password", timestamp:"2024-12-25T10:53:21.565Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T11:06:01.176Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T11:06:01.410Z"}
+{level:"warn", message:"Token already used or invalid", timestamp:"2024-12-25T11:15:35.696Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T12:23:20.701Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T13:07:28.598Z"}
+{level:"warn", message:"Token verification failed", timestamp:"2024-12-25T13:07:28.636Z"}

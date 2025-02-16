@@ -3,7 +3,7 @@ import axios from "axios";
 
 export const registerUser = createAsyncThunk('user/register', async (userData) => {
     try {
-        const { data } = await axios.post('http://localhost:3000/api/v1/customer/register', userData);
+        const { data } = await axios.post(`${import.meta.env.VITE_URL}/customer/register`, userData);
         return data.message;
     } catch (error) {
         throw new Error(error.response.data.message);
@@ -12,7 +12,7 @@ export const registerUser = createAsyncThunk('user/register', async (userData) =
 
 export const loginUser = createAsyncThunk('user/login', async (userData) => {
     try {
-        const { data } = await axios.post('http://localhost:3000/api/v1/customer/login', userData);
+        const { data } = await axios.post(`${import.meta.env.VITE_URL}/customer/login`, userData);
         localStorage.setItem('token', data.accessToken);
         return data;
     } catch (error) {
@@ -21,16 +21,28 @@ export const loginUser = createAsyncThunk('user/login', async (userData) => {
 });
 
 export const getUser = createAsyncThunk('user/fetchUserData', async () => {
+   try {
     const token = localStorage.getItem('token');
-    const { data } = await axios.get('http://localhost:3000/api/v1/customer/fetch', {
+    const { data } = await axios.get(`${import.meta.env.VITE_URL}/customer/fetch`, {
         headers: { Authorization: `Bearer ${token}` }
     });
     return data.data;
+   }  catch (error) {
+    throw new Error(error.response.data.message);
+}
 });
-
+export const updateUser = createAsyncThunk('user/update',async({user,newAddress})=>{
+    
+ try {
+    const token = localStorage.getItem('token');
+    const {data}= await axios.patch(`${import.meta.env.VITE_URL}/customer/customer/${user._id}`,{address:newAddress},{headers:{Authorization:`Bearer ${token}`}})
+ }  catch (error) {
+    throw new Error(error.response.data.message);
+}
+})
 export const resetPassword = createAsyncThunk('user/resetPassword', async ({ token, password }) => {
     try {
-        const { data } = await axios.post(`http://localhost:3000/api/v1/customer/customer/forgot/${token}`, { password });
+        const { data } = await axios.post(`${import.meta.env.VITE_URL}/customer/customer/forgot/${token}`, { password });
         return data.message; 
     } catch (error) {
         throw new Error(error.response.data.message);
@@ -39,7 +51,7 @@ export const resetPassword = createAsyncThunk('user/resetPassword', async ({ tok
 
 export const forgotPassword = createAsyncThunk('user/forgotPassword', async ({ email }) => {
     try {
-        const { data } = await axios.post('http://localhost:3000/api/v1/customer/customer/forgot', { email });
+        const { data } = await axios.post(`${import.meta.env.VITE_URL}/customer/customer/forgot`, { email });
         return data.message;
     } catch (error) {
         throw new Error(error.response.data.message);
@@ -48,7 +60,7 @@ export const forgotPassword = createAsyncThunk('user/forgotPassword', async ({ e
 
 export const resetTokenChecker = createAsyncThunk('user/resetPassword/check', async ({ token }) => {
     try {
-        const { data } = await axios.get(`http://localhost:3000/api/v1/customer/reset-password/${token}`);
+        const { data } = await axios.get(`${import.meta.env.VITE_URL}/customer/reset-password/${token}`);
         return data.message;
     } catch (error) {
         throw new Error(error.response.data.message);
@@ -130,6 +142,17 @@ const userSlice = createSlice({
                 state.error = null;
             })
             .addCase(resetTokenChecker.rejected, (state, action) => {
+                state.loading = false;
+            })
+            .addCase(updateUser.pending, (state) => {
+                state.loading = true;
+                state.error = null;
+            })
+            .addCase(updateUser.fulfilled, (state) => {
+                state.loading = false;
+                state.error = null;
+            })
+            .addCase(updateUser.rejected, (state, action) => {
                 state.loading = false;
             });
     }

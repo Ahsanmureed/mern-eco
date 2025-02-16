@@ -1,0 +1,5 @@
+{level:"info", message:"User logged in successfully", timestamp:"2024-12-22T08:27:29.753Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-12-22T08:27:48.107Z"}
+{level:"info", message:"Fetched products with pagination", timestamp:"2024-12-22T08:27:52.324Z"}
+{level:"info", message:"Fetched single product", timestamp:"2024-12-22T08:28:01.701Z"}
+{level:"info", message:"Fetched reviews for product", timestamp:"2024-12-22T08:28:01.850Z"}

@@ -1,8 +1,8 @@
 import express from 'express';
-import { getChatListForCustomerController, getChatListForShopOwnerController, getMessagesController } from '../controller/messagesController.js';
+import {   previousChatsController, previousMessagesController } from '../controller/messagesController.js';
+import {verifyToken} from '../middlewares/verifyToken.js'
 const messageRoutes = express.Router()
-messageRoutes.get('/messages/:senderId/:recipientId',getMessagesController)
-messageRoutes.get('/customers/:customerId/chats',getChatListForCustomerController)
-messageRoutes.get('/chatlist/:shopOwnerId', getChatListForShopOwnerController);
+messageRoutes.get('/messages/:chatId',verifyToken,previousMessagesController)
+messageRoutes.get('/chats/:userId',verifyToken,previousChatsController)
 
 export default messageRoutes

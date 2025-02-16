@@ -1,8 +1,7 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { updateQuantity, removeFromCart } from "../store/cartSlice";
+import { updateQuantity, removeFromCart, clearCart } from "../store/cartSlice";
 import { useNavigate } from "react-router-dom";
-
 const ShoppingCart = () => {
   const user = useSelector((state) => state.user.user);
   const cart = useSelector((state) => state.cart.items);
@@ -24,94 +23,93 @@ const ShoppingCart = () => {
     dispatch(removeFromCart(id));
   };
 
-  const handleCheckout = () => {
-    navigate("/create-order");
+
+  const handleCheckout = async () => {
+    navigate('/create-order')
+
   };
+  
 
   return (
-    <div className="container mx-auto pt-[75px]">
-      <h2 className="text-2xl font-bold text-center mt-4 mb-4">
-        Shopping Cart
-      </h2>
-      {cart.length === 0 ? (
-        <p className=" text-center">Your cart is empty</p>
-      ) : (
-        <div>
-          <ul className="space-y-4">
-            {cart.map((item) => (
-              <li
-                key={item.id}
-                className="flex flex-col sm:flex-row items-center sm:justify-between p-4 border rounded-lg shadow"
-              >
-                {/* Product Image */}
-                <div className="w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4 flex-shrink-0 flex justify-center">
-                  <img
-                    src={item.images[0]}
-                    alt={item.name}
-                    className="w-20 h-20 object-contain"
-                  />
-                </div>
+    <div className=" mx-auto bg-white px-4 pt-24">
+  <h2 className="text-3xl font-bold text-center mb-6">Shopping Cart</h2>
 
-                {/* Product Details */}
-                <div className="flex-1 w-full text-center sm:text-left">
-                  <h3 className="text-lg font-semibold truncate">
-                    {item.name}
-                  </h3>
-                  <p className="text-gray-600">${item.price}</p>
-                </div>
+  {cart.length === 0 ? (
+    <p className="text-center text-lg text-gray-500">Your cart is empty</p>
+  ) : (
+    <div className="max-w-4xl mx-auto">
+      <div className="bg-white p-6 shadow-lg rounded-lg">
+        <ul className="divide-y divide-gray-200">
+          {cart.map((item) => (
+            <li key={item._id} className="flex flex-col sm:flex-row items-center gap-6 py-6">
+              {/* Product Image */}
+              <div className="w-24 h-24 flex-shrink-0">
+                <img
+                  src={item.images[0]}
+                  alt={item.name}
+                  className="w-full h-full object-contain rounded-md "
+                />
+              </div>
 
-                {/* Quantity Controls */}
-                <div className="flex items-center mt-4 sm:mt-0">
-                  <button
-                    onClick={() => handleDecreaseQuantity(item._id)}
-                    className="bg-gray-200 px-2 py-1 rounded-l hover:bg-gray-300"
-                  >
-                    -
-                  </button>
-                  <span className="w-12 text-center border">
-                    {item.quantity}
-                  </span>
-                  <button
-                    onClick={() => handleIncreaseQuantity(item._id)}
-                    className="bg-gray-200 px-2 py-1 rounded-r hover:bg-gray-300"
-                  >
-                    +
-                  </button>
-                </div>
+              {/* Product Details */}
+              <div className="flex-1 w-full text-center sm:text-left">
+                <h3 className="text-lg font-semibold text-gray-800 truncate">{item.name}</h3>
+                <p className="text-gray-600 text-sm">${item.price}</p>
+              </div>
 
-                {/* Remove Button */}
-                <div className="mt-4 sm:mt-0 ml-0 sm:ml-4">
-                  <button
-                    onClick={() => handleRemove(item._id)}
-                    className="bg-red-500 text-white px-3 py-1 rounded hover:bg-red-600"
-                  >
-                    Remove
-                  </button>
-                </div>
-              </li>
-            ))}
-          </ul>
+              {/* Quantity Controls */}
+              <div className="flex items-center bg-gray-100 px-2 py-1 rounded-lg">
+                <button
+                  onClick={() => handleDecreaseQuantity(item._id)}
+                  className="px-3 py-1 text-gray-600 hover:text-black transition"
+                >
+                  -
+                </button>
+                <span className="w-12 text-center text-gray-800 font-medium">{item.quantity}</span>
+                <button
+                  onClick={() => handleIncreaseQuantity(item._id)}
+                  className="px-3 py-1 text-gray-600 hover:text-black transition"
+                >
+                  +
+                </button>
+              </div>
 
-          <div className="mt-6">
-            {user ? (
+              {/* Remove Button */}
               <button
-                onClick={handleCheckout}
-                className="bg-blue-500 mx-auto flex text-white px-4 py-2 rounded hover:bg-blue-600"
+                onClick={() => handleRemove(item._id)}
+                className="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600 transition shadow"
               >
-                Checkout
+                Remove
               </button>
-            ) : (
-              <button
-                onClick={() => navigate("/login", { state: { from: "/cart" } })}
-                className="bg-blue-500 flex mx-auto text-white px-4 py-2 rounded hover:bg-blue-600"
-              >
-                Please login to checkout
-              </button>
-            )}
-          </div>
-        </div>
-      )}
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      {/* Checkout Button After Items */}
+      <div className="mt-5 mb-8 flex justify-center">
+        {user ? (
+          <button
+            onClick={handleCheckout}
+            className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition shadow-lg"
+          >
+            Proceed to Checkout
+          </button>
+        ) : (
+          <button
+            onClick={() => navigate("/login", { state: { from: "/cart" } })}
+            className="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition shadow-lg"
+          >
+            Please login to checkout
+          </button>
+        )}
+      </div>
     </div>
+  )}
+</div>
+
+
+
   );
 };
 

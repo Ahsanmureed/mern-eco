@@ -21,9 +21,9 @@ const forgotPasswordUser = async (req, res, next) => {
     logger.info("Token verified successfully", { userId: decoded.id });
 
     const user = await userModel.findById(decoded.id);
-    if (!user) {
-      logger.warn("User not found for the given token", { token });
-      return res.status(400).json({ message: 'Invalid token' });
+    if (!user || !user.forgotPassword || user.forgotPassword !== token) {
+      logger.warn("Token already used or invalid", { token });
+      return res.status(403).json({ message: 'Invalid or expired reset link. Please request a new one.' });
     }
    // Password validation
    const passwordErrors = [];

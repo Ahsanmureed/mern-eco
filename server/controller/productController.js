@@ -17,10 +17,10 @@ const createProductController = async (req, res) => {
       });
     }
 
-    const shopId = await shopModel.findOne({ userId: req.userId });
+    const shopId = await shopModel.findOne({ userId: req.user._id });
 
     if (!shopId) {
-      logger.warn("Shop not found for user", { userId: req.userId });
+      logger.warn("Shop not found for user", { userId: req.user._id });
       return res.status(404).json({
         success: false,
         message: "Shop not found, please create a shop",
@@ -45,7 +45,7 @@ const createProductController = async (req, res) => {
       price,
       quantity,
       shopId: shopId._id,
-      userId: req.userId,
+      userId: req.user._id,
       images,
       subCategory
     });

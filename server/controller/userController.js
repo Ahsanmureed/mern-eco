@@ -251,7 +251,7 @@ const forgotPassword = async (req, res, next) => {
 };
 const fetchUserController = async(req,res)=>{
   try {
-   const user = await userModel.findById(req.userId).select('-password');
+   const user = await userModel.findById(req.user._id).select('-password');
    if (!user) {
      return res.status(404).json({ message: 'User not found' });
      logger.warn('User not found');
